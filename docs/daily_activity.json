@@ -547,7 +547,42 @@
   },
   {
     "block": "19:45",
-    "count": 237,
+    "count": 250,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "20:00",
+    "count": 226,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "20:15",
+    "count": 216,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "20:30",
+    "count": 216,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "20:45",
+    "count": 223,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "21:00",
+    "count": 105,
     "activity_level": "Low",
     "temperature": null,
     "temperature_condition": "Unknown"
