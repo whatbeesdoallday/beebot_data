@@ -442,7 +442,14 @@
   },
   {
     "block": "16:15",
-    "count": 2,
+    "count": 2684,
+    "activity_level": "High",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "16:30",
+    "count": 1,
     "activity_level": "Low",
     "temperature": null,
     "temperature_condition": "Unknown"
