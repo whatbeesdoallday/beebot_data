@@ -596,6 +596,13 @@
   },
   {
     "block": "21:30",
+    "count": 1022,
+    "activity_level": "High",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "21:45",
     "count": 1,
     "activity_level": "Low",
     "temperature": null,
