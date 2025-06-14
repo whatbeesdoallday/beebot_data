@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "block": "00:00",
+    "count": 231,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "00:15",
+    "count": 1,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  }
+]
