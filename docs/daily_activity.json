@@ -260,8 +260,22 @@
   },
   {
     "block": "09:15",
-    "count": 801,
+    "count": 802,
     "activity_level": "Medium",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "09:30",
+    "count": 802,
+    "activity_level": "Medium",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "09:45",
+    "count": 1,
+    "activity_level": "Low",
     "temperature": null,
     "temperature_condition": "Unknown"
   }
