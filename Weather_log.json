@@ -1972,5 +1972,6053 @@
     "temperature": 20.79,
     "humidity": 52,
     "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T17:34:55.168211",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T17:44:55.384223",
+    "description": "Broken clouds",
+    "temperature": 21.34,
+    "humidity": 49,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T17:54:55.570333",
+    "description": "Broken clouds",
+    "temperature": 21.34,
+    "humidity": 50,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T18:04:55.713317",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T18:14:55.969433",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T18:24:56.188472",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T18:34:56.408693",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T18:44:56.565960",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T18:54:56.799688",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T19:04:57.024215",
+    "description": "Clear sky",
+    "temperature": 19.86,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T19:14:57.167475",
+    "description": "Clear sky",
+    "temperature": 19.86,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T19:24:57.346698",
+    "description": "Clear sky",
+    "temperature": 19.86,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T19:34:57.551702",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T19:44:57.691117",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T19:54:57.884190",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-10T20:04:58.027705",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-10T20:14:58.241105",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-10T20:24:58.399270",
+    "description": "Few clouds",
+    "temperature": 19.85,
+    "humidity": 52,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-10T20:34:58.578154",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-10T20:44:58.781282",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-10T20:54:59.192809",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-10T21:04:59.366199",
+    "description": "Few clouds",
+    "temperature": 19.21,
+    "humidity": 56,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-10T21:14:59.494832",
+    "description": "Few clouds",
+    "temperature": 19.21,
+    "humidity": 56,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-10T21:24:59.667536",
+    "description": "Few clouds",
+    "temperature": 18.77,
+    "humidity": 58,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-10T21:34:59.858334",
+    "description": "Few clouds",
+    "temperature": 18.32,
+    "humidity": 59,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-10T21:45:00.021756",
+    "description": "Few clouds",
+    "temperature": 18.32,
+    "humidity": 60,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-10T21:55:00.196812",
+    "description": "Few clouds",
+    "temperature": 17.88,
+    "humidity": 61,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-10T22:05:00.334744",
+    "description": "Clear sky",
+    "temperature": 17.48,
+    "humidity": 65,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-10T22:15:00.457477",
+    "description": "Clear sky",
+    "temperature": 17.48,
+    "humidity": 66,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-10T22:25:00.586397",
+    "description": "Clear sky",
+    "temperature": 17.03,
+    "humidity": 66,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-10T22:35:00.718096",
+    "description": "Clear sky",
+    "temperature": 16.59,
+    "humidity": 67,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-10T22:45:00.847039",
+    "description": "Clear sky",
+    "temperature": 16.59,
+    "humidity": 68,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-10T22:55:01.001390",
+    "description": "Clear sky",
+    "temperature": 16.59,
+    "humidity": 68,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-10T23:05:01.163711",
+    "description": "Overcast clouds",
+    "temperature": 15.98,
+    "humidity": 71,
+    "wind_speed": 2.7
+  },
+  {
+    "timestamp": "2025-06-10T23:15:01.363316",
+    "description": "Overcast clouds",
+    "temperature": 15.98,
+    "humidity": 72,
+    "wind_speed": 2.7
+  },
+  {
+    "timestamp": "2025-06-10T23:25:01.522442",
+    "description": "Overcast clouds",
+    "temperature": 15.44,
+    "humidity": 75,
+    "wind_speed": 2.7
+  },
+  {
+    "timestamp": "2025-06-10T23:35:01.695198",
+    "description": "Overcast clouds",
+    "temperature": 15.8,
+    "humidity": 76,
+    "wind_speed": 2.74
+  },
+  {
+    "timestamp": "2025-06-10T23:45:01.866768",
+    "description": "Overcast clouds",
+    "temperature": 15.8,
+    "humidity": 76,
+    "wind_speed": 2.74
+  },
+  {
+    "timestamp": "2025-06-10T23:55:01.996377",
+    "description": "Overcast clouds",
+    "temperature": 15.8,
+    "humidity": 77,
+    "wind_speed": 2.74
+  },
+  {
+    "timestamp": "2025-06-11T00:05:02.188746",
+    "description": "Clear sky",
+    "temperature": 12.92,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T00:15:02.328439",
+    "description": "Clear sky",
+    "temperature": 12.92,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T00:25:02.454882",
+    "description": "Clear sky",
+    "temperature": 12.92,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T00:35:02.586030",
+    "description": "Clear sky",
+    "temperature": 12.86,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T00:45:02.733588",
+    "description": "Clear sky",
+    "temperature": 13.52,
+    "humidity": 81,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T00:55:02.857854",
+    "description": "Clear sky",
+    "temperature": 13.93,
+    "humidity": 81,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T01:05:02.983997",
+    "description": "Clear sky",
+    "temperature": 13.51,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T01:15:03.109170",
+    "description": "Clear sky",
+    "temperature": 13.51,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T01:25:03.236246",
+    "description": "Clear sky",
+    "temperature": 12.79,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T01:35:03.363207",
+    "description": "Clear sky",
+    "temperature": 12.79,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T01:45:03.491744",
+    "description": "Clear sky",
+    "temperature": 12.79,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T01:55:03.638449",
+    "description": "Clear sky",
+    "temperature": 13.09,
+    "humidity": 83,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T02:05:03.771915",
+    "description": "Clear sky",
+    "temperature": 12.83,
+    "humidity": 83,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T02:15:03.965849",
+    "description": "Clear sky",
+    "temperature": 12.83,
+    "humidity": 83,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T02:25:04.112757",
+    "description": "Clear sky",
+    "temperature": 12.83,
+    "humidity": 84,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T02:35:04.307923",
+    "description": "Clear sky",
+    "temperature": 11.79,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T02:45:04.455217",
+    "description": "Clear sky",
+    "temperature": 11.79,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T02:55:04.582867",
+    "description": "Clear sky",
+    "temperature": 12.43,
+    "humidity": 84,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T03:05:04.741316",
+    "description": "Clear sky",
+    "temperature": 11.77,
+    "humidity": 85,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T03:15:04.866189",
+    "description": "Clear sky",
+    "temperature": 11.77,
+    "humidity": 85,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T03:25:04.990127",
+    "description": "Clear sky",
+    "temperature": 12.18,
+    "humidity": 85,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T03:35:05.133997",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T03:45:05.262780",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T03:55:05.407425",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-11T04:05:05.527907",
+    "description": "Few clouds",
+    "temperature": 9.86,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T04:15:05.671850",
+    "description": "Few clouds",
+    "temperature": 9.86,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T04:25:06.058633",
+    "description": "Few clouds",
+    "temperature": 9.86,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T04:35:06.215230",
+    "description": "Few clouds",
+    "temperature": 9.86,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T04:45:06.414472",
+    "description": "Few clouds",
+    "temperature": 9.86,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T04:55:06.574567",
+    "description": "Few clouds",
+    "temperature": 11.51,
+    "humidity": 84,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T05:05:06.769466",
+    "description": "Few clouds",
+    "temperature": 11.51,
+    "humidity": 86,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T05:15:06.925874",
+    "description": "Few clouds",
+    "temperature": 11.51,
+    "humidity": 86,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T05:25:07.047896",
+    "description": "Few clouds",
+    "temperature": 11.51,
+    "humidity": 86,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T05:35:07.214517",
+    "description": "Few clouds",
+    "temperature": 11.51,
+    "humidity": 86,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T05:45:07.360770",
+    "description": "Few clouds",
+    "temperature": 9.79,
+    "humidity": 87,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T05:55:07.487391",
+    "description": "Few clouds",
+    "temperature": 9.79,
+    "humidity": 87,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-11T06:05:07.630058",
+    "description": "Haze",
+    "temperature": 11.77,
+    "humidity": 86,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T06:15:07.830844",
+    "description": "Haze",
+    "temperature": 11.77,
+    "humidity": 86,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T06:25:07.981947",
+    "description": "Haze",
+    "temperature": 10.86,
+    "humidity": 87,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T06:35:08.123706",
+    "description": "Haze",
+    "temperature": 10.86,
+    "humidity": 87,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T06:45:08.245677",
+    "description": "Haze",
+    "temperature": 10.86,
+    "humidity": 87,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T06:55:08.401527",
+    "description": "Haze",
+    "temperature": 10.86,
+    "humidity": 87,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T07:05:08.529303",
+    "description": "Few clouds",
+    "temperature": 13.91,
+    "humidity": 79,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T07:15:08.660112",
+    "description": "Few clouds",
+    "temperature": 13.91,
+    "humidity": 79,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T07:25:08.799920",
+    "description": "Few clouds",
+    "temperature": 12.79,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T07:35:08.933638",
+    "description": "Few clouds",
+    "temperature": 14.34,
+    "humidity": 78,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T07:45:09.109003",
+    "description": "Few clouds",
+    "temperature": 14.34,
+    "humidity": 78,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T07:55:09.271607",
+    "description": "Few clouds",
+    "temperature": 12.86,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-11T08:05:09.443570",
+    "description": "Broken clouds",
+    "temperature": 14.85,
+    "humidity": 80,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T08:15:09.648884",
+    "description": "Broken clouds",
+    "temperature": 14.85,
+    "humidity": 80,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T08:25:09.796026",
+    "description": "Broken clouds",
+    "temperature": 14.85,
+    "humidity": 80,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T08:35:09.994896",
+    "description": "Broken clouds",
+    "temperature": 14.85,
+    "humidity": 80,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T08:45:10.134135",
+    "description": "Broken clouds",
+    "temperature": 14.85,
+    "humidity": 80,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T08:55:10.301796",
+    "description": "Broken clouds",
+    "temperature": 15.74,
+    "humidity": 78,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T09:05:10.457853",
+    "description": "Broken clouds",
+    "temperature": 15.94,
+    "humidity": 79,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T09:15:10.599892",
+    "description": "Broken clouds",
+    "temperature": 15.94,
+    "humidity": 78,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T09:25:10.729431",
+    "description": "Broken clouds",
+    "temperature": 15.94,
+    "humidity": 78,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T09:35:10.955196",
+    "description": "Broken clouds",
+    "temperature": 15.94,
+    "humidity": 79,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T09:45:11.157658",
+    "description": "Broken clouds",
+    "temperature": 16.39,
+    "humidity": 78,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T09:55:11.304617",
+    "description": "Broken clouds",
+    "temperature": 16.83,
+    "humidity": 76,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T10:05:11.515591",
+    "description": "Overcast clouds",
+    "temperature": 17.01,
+    "humidity": 74,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T10:15:11.697724",
+    "description": "Overcast clouds",
+    "temperature": 17.43,
+    "humidity": 74,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T10:25:11.860933",
+    "description": "Overcast clouds",
+    "temperature": 17.83,
+    "humidity": 73,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T10:35:12.044214",
+    "description": "Overcast clouds",
+    "temperature": 17.92,
+    "humidity": 71,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T10:45:12.229639",
+    "description": "Overcast clouds",
+    "temperature": 18.24,
+    "humidity": 72,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T10:55:12.452865",
+    "description": "Overcast clouds",
+    "temperature": 16.79,
+    "humidity": 77,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T11:05:12.603638",
+    "description": "Broken clouds",
+    "temperature": 17.73,
+    "humidity": 77,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T11:15:12.779714",
+    "description": "Broken clouds",
+    "temperature": 18.49,
+    "humidity": 71,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T11:25:12.994896",
+    "description": "Broken clouds",
+    "temperature": 18.9,
+    "humidity": 70,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T11:35:13.154469",
+    "description": "Broken clouds",
+    "temperature": 18.49,
+    "humidity": 70,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T11:45:13.301315",
+    "description": "Broken clouds",
+    "temperature": 18.49,
+    "humidity": 69,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T11:55:13.487109",
+    "description": "Broken clouds",
+    "temperature": 19.6,
+    "humidity": 66,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T12:05:13.648078",
+    "description": "Overcast clouds",
+    "temperature": 19.57,
+    "humidity": 66,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T12:15:13.842339",
+    "description": "Overcast clouds",
+    "temperature": 19.57,
+    "humidity": 64,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T12:25:14.010557",
+    "description": "Overcast clouds",
+    "temperature": 19.57,
+    "humidity": 66,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T12:35:14.188182",
+    "description": "Overcast clouds",
+    "temperature": 19.57,
+    "humidity": 66,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T12:45:14.415024",
+    "description": "Overcast clouds",
+    "temperature": 19.98,
+    "humidity": 64,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T12:55:14.605393",
+    "description": "Overcast clouds",
+    "temperature": 19.98,
+    "humidity": 64,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-11T13:05:14.736085",
+    "description": "Overcast clouds",
+    "temperature": 20.25,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T13:15:14.876066",
+    "description": "Overcast clouds",
+    "temperature": 20.25,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T13:25:15.014234",
+    "description": "Overcast clouds",
+    "temperature": 20.65,
+    "humidity": 62,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T13:35:15.160912",
+    "description": "Overcast clouds",
+    "temperature": 20.65,
+    "humidity": 61,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T13:45:15.332192",
+    "description": "Overcast clouds",
+    "temperature": 20.65,
+    "humidity": 61,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T13:55:15.465985",
+    "description": "Overcast clouds",
+    "temperature": 20.65,
+    "humidity": 60,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-11T14:05:15.617475",
+    "description": "Broken clouds",
+    "temperature": 21.33,
+    "humidity": 58,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T14:15:15.742289",
+    "description": "Broken clouds",
+    "temperature": 21.33,
+    "humidity": 58,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T14:25:15.893179",
+    "description": "Broken clouds",
+    "temperature": 21.33,
+    "humidity": 56,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T14:35:16.051110",
+    "description": "Broken clouds",
+    "temperature": 21.75,
+    "humidity": 54,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T14:45:16.199081",
+    "description": "Broken clouds",
+    "temperature": 21.75,
+    "humidity": 54,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T14:55:16.349727",
+    "description": "Broken clouds",
+    "temperature": 22.16,
+    "humidity": 54,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T15:05:16.499152",
+    "description": "Broken clouds",
+    "temperature": 23.15,
+    "humidity": 47,
+    "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-06-11T15:15:16.640937",
+    "description": "Broken clouds",
+    "temperature": 22.61,
+    "humidity": 48,
+    "wind_speed": 2.24
+  },
+  {
+    "timestamp": "2025-06-11T15:25:16.773618",
+    "description": "Broken clouds",
+    "temperature": 22.06,
+    "humidity": 48,
+    "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-06-11T15:35:16.918298",
+    "description": "Broken clouds",
+    "temperature": 22.08,
+    "humidity": 49,
+    "wind_speed": 2.24
+  },
+  {
+    "timestamp": "2025-06-11T15:45:17.098812",
+    "description": "Broken clouds",
+    "temperature": 22.08,
+    "humidity": 48,
+    "wind_speed": 2.24
+  },
+  {
+    "timestamp": "2025-06-11T15:55:17.263340",
+    "description": "Broken clouds",
+    "temperature": 22.01,
+    "humidity": 52,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T16:05:17.394091",
+    "description": "Broken clouds",
+    "temperature": 23.19,
+    "humidity": 47,
+    "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-06-11T16:15:17.550305",
+    "description": "Broken clouds",
+    "temperature": 23.19,
+    "humidity": 45,
+    "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-06-11T16:25:17.704091",
+    "description": "Broken clouds",
+    "temperature": 23.09,
+    "humidity": 50,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T16:35:17.874427",
+    "description": "Broken clouds",
+    "temperature": 23.09,
+    "humidity": 50,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T16:45:18.010635",
+    "description": "Broken clouds",
+    "temperature": 23.09,
+    "humidity": 49,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T16:55:18.160401",
+    "description": "Broken clouds",
+    "temperature": 22.69,
+    "humidity": 49,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T17:05:18.305095",
+    "description": "Broken clouds",
+    "temperature": 22.27,
+    "humidity": 49,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T17:15:18.427891",
+    "description": "Broken clouds",
+    "temperature": 22.27,
+    "humidity": 50,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T17:25:18.584769",
+    "description": "Broken clouds",
+    "temperature": 23.09,
+    "humidity": 49,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T17:35:18.715663",
+    "description": "Broken clouds",
+    "temperature": 22.69,
+    "humidity": 49,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T17:45:18.855037",
+    "description": "Broken clouds",
+    "temperature": 22.69,
+    "humidity": 49,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T17:55:18.981066",
+    "description": "Broken clouds",
+    "temperature": 22.69,
+    "humidity": 49,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-11T18:05:19.139649",
+    "description": "Scattered clouds",
+    "temperature": 23.12,
+    "humidity": 49,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-11T18:15:19.307616",
+    "description": "Scattered clouds",
+    "temperature": 23.12,
+    "humidity": 49,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-11T18:25:19.442279",
+    "description": "Scattered clouds",
+    "temperature": 22.68,
+    "humidity": 49,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-11T18:35:19.571137",
+    "description": "Scattered clouds",
+    "temperature": 22.27,
+    "humidity": 50,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-11T18:45:19.708229",
+    "description": "Scattered clouds",
+    "temperature": 22.68,
+    "humidity": 50,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-11T18:55:19.864936",
+    "description": "Scattered clouds",
+    "temperature": 22.68,
+    "humidity": 49,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-11T19:05:20.010744",
+    "description": "Clear sky",
+    "temperature": 22.68,
+    "humidity": 48,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T19:15:20.139875",
+    "description": "Clear sky",
+    "temperature": 22.68,
+    "humidity": 48,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T19:25:20.266727",
+    "description": "Clear sky",
+    "temperature": 22.26,
+    "humidity": 53,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T19:35:20.401513",
+    "description": "Clear sky",
+    "temperature": 22.73,
+    "humidity": 49,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T19:45:20.538229",
+    "description": "Clear sky",
+    "temperature": 22.73,
+    "humidity": 49,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T19:55:20.679492",
+    "description": "Clear sky",
+    "temperature": 22.73,
+    "humidity": 49,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-11T20:05:20.804733",
+    "description": "Overcast clouds",
+    "temperature": 21.8,
+    "humidity": 67,
+    "wind_speed": 4.51
+  },
+  {
+    "timestamp": "2025-06-11T20:15:20.949475",
+    "description": "Overcast clouds",
+    "temperature": 21.8,
+    "humidity": 61,
+    "wind_speed": 4.51
+  },
+  {
+    "timestamp": "2025-06-11T20:25:21.072385",
+    "description": "Overcast clouds",
+    "temperature": 21.23,
+    "humidity": 68,
+    "wind_speed": 0.45
+  },
+  {
+    "timestamp": "2025-06-11T20:35:21.206338",
+    "description": "Overcast clouds",
+    "temperature": 21.8,
+    "humidity": 70,
+    "wind_speed": 3.74
+  },
+  {
+    "timestamp": "2025-06-11T20:45:21.348351",
+    "description": "Overcast clouds",
+    "temperature": 21.8,
+    "humidity": 70,
+    "wind_speed": 3.74
+  },
+  {
+    "timestamp": "2025-06-11T20:55:21.487157",
+    "description": "Overcast clouds",
+    "temperature": 21.8,
+    "humidity": 71,
+    "wind_speed": 3.74
+  },
+  {
+    "timestamp": "2025-06-11T21:05:21.635139",
+    "description": "Clear sky",
+    "temperature": 19.86,
+    "humidity": 64,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T21:15:21.771550",
+    "description": "Clear sky",
+    "temperature": 19.86,
+    "humidity": 64,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T21:25:21.934202",
+    "description": "Clear sky",
+    "temperature": 19.24,
+    "humidity": 69,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T21:35:22.071585",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 64,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T21:45:22.213980",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 64,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T21:55:22.352946",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 64,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-11T22:05:22.509394",
+    "description": "Clear sky",
+    "temperature": 17.86,
+    "humidity": 74,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T22:15:22.654766",
+    "description": "Clear sky",
+    "temperature": 17.86,
+    "humidity": 74,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T22:25:22.812716",
+    "description": "Clear sky",
+    "temperature": 17.86,
+    "humidity": 75,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T22:35:22.955431",
+    "description": "Clear sky",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T22:45:23.098335",
+    "description": "Clear sky",
+    "temperature": 18.73,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T22:55:23.234680",
+    "description": "Clear sky",
+    "temperature": 18.73,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-11T23:05:23.393971",
+    "description": "Clear sky",
+    "temperature": 16.79,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T23:15:23.551047",
+    "description": "Clear sky",
+    "temperature": 16.79,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T23:25:23.694160",
+    "description": "Clear sky",
+    "temperature": 16.79,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T23:35:23.836581",
+    "description": "Clear sky",
+    "temperature": 16.79,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T23:45:23.991856",
+    "description": "Clear sky",
+    "temperature": 16.79,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-11T23:55:24.161295",
+    "description": "Clear sky",
+    "temperature": 16.79,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T00:05:24.311945",
+    "description": "Clear sky",
+    "temperature": 14.79,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T00:15:24.475864",
+    "description": "Clear sky",
+    "temperature": 14.79,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T00:25:24.639264",
+    "description": "Clear sky",
+    "temperature": 14.79,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T00:35:24.826849",
+    "description": "Clear sky",
+    "temperature": 14.73,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T00:45:25.020187",
+    "description": "Clear sky",
+    "temperature": 14.73,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T00:55:25.160382",
+    "description": "Clear sky",
+    "temperature": 14.73,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T01:05:25.324099",
+    "description": "Clear sky",
+    "temperature": 14.73,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T01:15:25.463372",
+    "description": "Clear sky",
+    "temperature": 14.83,
+    "humidity": 61,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T01:25:25.606260",
+    "description": "Clear sky",
+    "temperature": 14.73,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T01:35:25.741304",
+    "description": "Clear sky",
+    "temperature": 14.83,
+    "humidity": 62,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T01:45:25.881437",
+    "description": "Clear sky",
+    "temperature": 14.83,
+    "humidity": 62,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T01:55:26.018718",
+    "description": "Clear sky",
+    "temperature": 14.83,
+    "humidity": 63,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T02:05:26.205684",
+    "description": "Clear sky",
+    "temperature": 14.57,
+    "humidity": 67,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T02:15:26.365150",
+    "description": "Clear sky",
+    "temperature": 14.16,
+    "humidity": 68,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T02:25:26.525147",
+    "description": "Clear sky",
+    "temperature": 14.16,
+    "humidity": 69,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T02:35:26.667595",
+    "description": "Clear sky",
+    "temperature": 13.73,
+    "humidity": 69,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T02:45:26.809837",
+    "description": "Clear sky",
+    "temperature": 13.73,
+    "humidity": 70,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T02:55:26.955950",
+    "description": "Clear sky",
+    "temperature": 13.73,
+    "humidity": 71,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T03:05:27.092642",
+    "description": "Clear sky",
+    "temperature": 13.49,
+    "humidity": 73,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T03:15:27.229913",
+    "description": "Clear sky",
+    "temperature": 13.49,
+    "humidity": 73,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T03:25:27.396729",
+    "description": "Clear sky",
+    "temperature": 13.08,
+    "humidity": 75,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T03:35:27.532205",
+    "description": "Clear sky",
+    "temperature": 13.08,
+    "humidity": 75,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T03:45:27.670096",
+    "description": "Clear sky",
+    "temperature": 13.08,
+    "humidity": 75,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T03:55:27.835031",
+    "description": "Clear sky",
+    "temperature": 13.08,
+    "humidity": 75,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T04:05:27.976952",
+    "description": "Clear sky",
+    "temperature": 13.08,
+    "humidity": 78,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T04:15:28.121733",
+    "description": "Clear sky",
+    "temperature": 13.08,
+    "humidity": 78,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T04:25:28.254185",
+    "description": "Clear sky",
+    "temperature": 13.49,
+    "humidity": 78,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T04:35:28.393151",
+    "description": "Clear sky",
+    "temperature": 13.51,
+    "humidity": 78,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T04:45:28.529541",
+    "description": "Clear sky",
+    "temperature": 13.09,
+    "humidity": 78,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T04:55:28.686606",
+    "description": "Clear sky",
+    "temperature": 13.09,
+    "humidity": 79,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T05:05:28.838076",
+    "description": "Broken clouds",
+    "temperature": 12.85,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T05:15:28.982478",
+    "description": "Broken clouds",
+    "temperature": 12.85,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T05:25:29.118991",
+    "description": "Broken clouds",
+    "temperature": 13.26,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T05:35:29.290209",
+    "description": "Broken clouds",
+    "temperature": 13.26,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T05:45:29.422956",
+    "description": "Light rain",
+    "temperature": 13.26,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T05:55:29.565678",
+    "description": "Broken clouds",
+    "temperature": 13.26,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T06:05:29.709281",
+    "description": "Broken clouds",
+    "temperature": 13.51,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T06:15:29.851124",
+    "description": "Broken clouds",
+    "temperature": 13.51,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T06:25:30.010805",
+    "description": "Broken clouds",
+    "temperature": 13.51,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T06:35:30.170045",
+    "description": "Broken clouds",
+    "temperature": 13.93,
+    "humidity": 81,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T06:45:30.310356",
+    "description": "Broken clouds",
+    "temperature": 13.93,
+    "humidity": 80,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T06:55:30.450004",
+    "description": "Broken clouds",
+    "temperature": 14.34,
+    "humidity": 80,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T07:05:30.591778",
+    "description": "Broken clouds",
+    "temperature": 15.26,
+    "humidity": 73,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T07:15:30.759174",
+    "description": "Broken clouds",
+    "temperature": 16.08,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T07:25:30.900878",
+    "description": "Broken clouds",
+    "temperature": 16.08,
+    "humidity": 71,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T07:35:31.046947",
+    "description": "Broken clouds",
+    "temperature": 16.49,
+    "humidity": 70,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T07:45:31.203480",
+    "description": "Broken clouds",
+    "temperature": 16.49,
+    "humidity": 69,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T07:55:31.394915",
+    "description": "Broken clouds",
+    "temperature": 16.49,
+    "humidity": 68,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T08:05:31.610329",
+    "description": "Broken clouds",
+    "temperature": 17.41,
+    "humidity": 64,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T08:15:31.769696",
+    "description": "Broken clouds",
+    "temperature": 17.41,
+    "humidity": 64,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T08:25:31.918665",
+    "description": "Broken clouds",
+    "temperature": 17.41,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T08:35:32.051576",
+    "description": "Broken clouds",
+    "temperature": 17.44,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T08:45:32.195562",
+    "description": "Broken clouds",
+    "temperature": 17.44,
+    "humidity": 64,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T08:55:32.345316",
+    "description": "Broken clouds",
+    "temperature": 17.85,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T09:05:32.487330",
+    "description": "Light rain",
+    "temperature": 17.7,
+    "humidity": 64,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T09:15:32.635435",
+    "description": "Overcast clouds",
+    "temperature": 17.7,
+    "humidity": 64,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T09:25:32.790861",
+    "description": "Overcast clouds",
+    "temperature": 18.12,
+    "humidity": 63,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T09:35:32.932095",
+    "description": "Overcast clouds",
+    "temperature": 18.11,
+    "humidity": 64,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T09:45:33.070150",
+    "description": "Overcast clouds",
+    "temperature": 18.11,
+    "humidity": 64,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T09:55:33.185064",
+    "description": "Overcast clouds",
+    "temperature": 18.52,
+    "humidity": 63,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T10:05:33.354310",
+    "description": "Light rain",
+    "temperature": 18.77,
+    "humidity": 61,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T10:15:33.517711",
+    "description": "Light rain",
+    "temperature": 18.77,
+    "humidity": 61,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T10:25:33.663032",
+    "description": "Light intensity drizzle",
+    "temperature": 18.77,
+    "humidity": 61,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T10:35:33.818548",
+    "description": "Light intensity drizzle",
+    "temperature": 18.77,
+    "humidity": 61,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T10:45:33.939245",
+    "description": "Light intensity drizzle",
+    "temperature": 19.19,
+    "humidity": 61,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T10:55:34.091485",
+    "description": "Light intensity drizzle",
+    "temperature": 18.79,
+    "humidity": 61,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T11:05:34.234183",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 64,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T11:15:34.386710",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 64,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T11:25:34.505171",
+    "description": "Light rain",
+    "temperature": 18.79,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T11:35:34.647227",
+    "description": "Moderate rain",
+    "temperature": 18.77,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T11:45:34.786055",
+    "description": "Light intensity drizzle",
+    "temperature": 19.21,
+    "humidity": 65,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T11:55:34.943486",
+    "description": "Light intensity drizzle",
+    "temperature": 18.32,
+    "humidity": 67,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-12T12:05:35.083860",
+    "description": "Moderate rain",
+    "temperature": 18.32,
+    "humidity": 70,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T12:15:35.223416",
+    "description": "Moderate rain",
+    "temperature": 18.32,
+    "humidity": 71,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T12:25:35.406102",
+    "description": "Moderate rain",
+    "temperature": 18.32,
+    "humidity": 75,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T12:35:35.523456",
+    "description": "Moderate rain",
+    "temperature": 17.43,
+    "humidity": 77,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T12:45:35.660339",
+    "description": "Moderate rain",
+    "temperature": 17.43,
+    "humidity": 78,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T12:55:35.800953",
+    "description": "Heavy intensity rain",
+    "temperature": 17.43,
+    "humidity": 79,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T13:05:35.940216",
+    "description": "Heavy intensity rain",
+    "temperature": 17.03,
+    "humidity": 85,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T13:15:36.057821",
+    "description": "Heavy intensity rain",
+    "temperature": 17.03,
+    "humidity": 85,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T13:25:36.179142",
+    "description": "Light rain",
+    "temperature": 17.48,
+    "humidity": 86,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T13:35:36.324453",
+    "description": "Light rain",
+    "temperature": 17.48,
+    "humidity": 87,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T13:45:36.462141",
+    "description": "Light rain",
+    "temperature": 17.01,
+    "humidity": 87,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T13:55:36.623020",
+    "description": "Broken clouds",
+    "temperature": 17.01,
+    "humidity": 87,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-12T14:05:36.768659",
+    "description": "Broken clouds",
+    "temperature": 16.77,
+    "humidity": 90,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T14:15:36.896151",
+    "description": "Broken clouds",
+    "temperature": 16.77,
+    "humidity": 90,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T14:25:37.036067",
+    "description": "Broken clouds",
+    "temperature": 16.83,
+    "humidity": 89,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T14:35:37.184108",
+    "description": "Broken clouds",
+    "temperature": 17.28,
+    "humidity": 90,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T14:45:37.322823",
+    "description": "Broken clouds",
+    "temperature": 17.59,
+    "humidity": 89,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T14:55:37.507383",
+    "description": "Broken clouds",
+    "temperature": 18,
+    "humidity": 86,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T15:05:37.656828",
+    "description": "Overcast clouds",
+    "temperature": 19.85,
+    "humidity": 75,
+    "wind_speed": 3.58
+  },
+  {
+    "timestamp": "2025-06-12T15:15:37.796585",
+    "description": "Overcast clouds",
+    "temperature": 19.85,
+    "humidity": 71,
+    "wind_speed": 3.58
+  },
+  {
+    "timestamp": "2025-06-12T15:25:37.929705",
+    "description": "Scattered clouds",
+    "temperature": 19.73,
+    "humidity": 83,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T15:35:38.095573",
+    "description": "Scattered clouds",
+    "temperature": 20.69,
+    "humidity": 71,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T15:45:38.237529",
+    "description": "Scattered clouds",
+    "temperature": 21.1,
+    "humidity": 70,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T15:55:38.429106",
+    "description": "Scattered clouds",
+    "temperature": 21.51,
+    "humidity": 68,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T16:05:38.605209",
+    "description": "Scattered clouds",
+    "temperature": 22.48,
+    "humidity": 63,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T16:15:38.721851",
+    "description": "Scattered clouds",
+    "temperature": 22.03,
+    "humidity": 61,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T16:25:38.857261",
+    "description": "Scattered clouds",
+    "temperature": 22,
+    "humidity": 59,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T16:35:39.003933",
+    "description": "Scattered clouds",
+    "temperature": 22.01,
+    "humidity": 60,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T16:45:39.121253",
+    "description": "Scattered clouds",
+    "temperature": 21.79,
+    "humidity": 68,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T16:55:39.297058",
+    "description": "Scattered clouds",
+    "temperature": 22.01,
+    "humidity": 61,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T17:05:39.439811",
+    "description": "Broken clouds",
+    "temperature": 22.03,
+    "humidity": 59,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T17:15:39.581041",
+    "description": "Broken clouds",
+    "temperature": 22.03,
+    "humidity": 59,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T17:25:39.735190",
+    "description": "Broken clouds",
+    "temperature": 22.03,
+    "humidity": 57,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T17:35:39.861449",
+    "description": "Broken clouds",
+    "temperature": 22,
+    "humidity": 56,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-12T17:45:40.000757",
+    "description": "Broken clouds",
+    "temperature": 21.73,
+    "humidity": 60,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T17:55:40.158997",
+    "description": "Broken clouds",
+    "temperature": 22,
+    "humidity": 54,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-12T18:05:40.277129",
+    "description": "Scattered clouds",
+    "temperature": 21.75,
+    "humidity": 56,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T18:15:40.446167",
+    "description": "Scattered clouds",
+    "temperature": 20.79,
+    "humidity": 64,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T18:25:40.586664",
+    "description": "Scattered clouds",
+    "temperature": 20.79,
+    "humidity": 64,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T18:35:40.726866",
+    "description": "Scattered clouds",
+    "temperature": 20.86,
+    "humidity": 64,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T18:45:40.871470",
+    "description": "Scattered clouds",
+    "temperature": 20.86,
+    "humidity": 64,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T18:55:40.994726",
+    "description": "Scattered clouds",
+    "temperature": 21.77,
+    "humidity": 58,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T19:05:41.150917",
+    "description": "Broken clouds",
+    "temperature": 21.3,
+    "humidity": 63,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T19:15:41.325671",
+    "description": "Broken clouds",
+    "temperature": 21.58,
+    "humidity": 64,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T19:25:41.461980",
+    "description": "Broken clouds",
+    "temperature": 20.95,
+    "humidity": 64,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T19:35:41.594188",
+    "description": "Broken clouds",
+    "temperature": 20.35,
+    "humidity": 70,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T19:45:41.744697",
+    "description": "Broken clouds",
+    "temperature": 20.31,
+    "humidity": 71,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T19:55:41.884588",
+    "description": "Broken clouds",
+    "temperature": 20.31,
+    "humidity": 71,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-12T20:05:42.023203",
+    "description": "Few clouds",
+    "temperature": 19.99,
+    "humidity": 73,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T20:15:42.161605",
+    "description": "Few clouds",
+    "temperature": 20.49,
+    "humidity": 67,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T20:25:42.300095",
+    "description": "Few clouds",
+    "temperature": 20.31,
+    "humidity": 68,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T20:35:42.454470",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 68,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T20:45:42.578446",
+    "description": "Few clouds",
+    "temperature": 19.28,
+    "humidity": 73,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T20:55:42.731824",
+    "description": "Few clouds",
+    "temperature": 19.28,
+    "humidity": 74,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-12T21:05:42.871994",
+    "description": "Overcast clouds",
+    "temperature": 19.26,
+    "humidity": 74,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T21:15:43.025222",
+    "description": "Overcast clouds",
+    "temperature": 19.26,
+    "humidity": 74,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T21:25:43.156268",
+    "description": "Overcast clouds",
+    "temperature": 19.24,
+    "humidity": 75,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T21:35:43.327134",
+    "description": "Overcast clouds",
+    "temperature": 19.73,
+    "humidity": 68,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T21:45:43.460537",
+    "description": "Overcast clouds",
+    "temperature": 19.73,
+    "humidity": 68,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T21:55:43.582658",
+    "description": "Overcast clouds",
+    "temperature": 19.73,
+    "humidity": 68,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-12T22:05:43.728853",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 72,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-12T22:15:43.870163",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 72,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-12T22:25:44.012228",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 72,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-12T22:35:44.152734",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 72,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-12T22:45:44.276102",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 72,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-12T22:55:44.403107",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 72,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-12T23:05:44.520032",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-12T23:15:44.652339",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-12T23:25:44.770263",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-12T23:35:44.905817",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-12T23:45:45.065113",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-12T23:55:45.197322",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T00:05:45.416346",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T00:15:45.541148",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T00:25:45.683481",
+    "description": "Overcast clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T00:35:45.822753",
+    "description": "Overcast clouds",
+    "temperature": 17.73,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T00:45:45.961875",
+    "description": "Overcast clouds",
+    "temperature": 17.73,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T00:55:46.108191",
+    "description": "Overcast clouds",
+    "temperature": 17.73,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T01:05:46.240109",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T01:15:46.381367",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T01:25:46.532913",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T01:35:46.647452",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T01:45:46.795803",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T01:55:46.925232",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T02:05:47.070037",
+    "description": "Few clouds",
+    "temperature": 15.79,
+    "humidity": 88,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T02:15:47.197591",
+    "description": "Few clouds",
+    "temperature": 15.94,
+    "humidity": 83,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T02:25:47.344534",
+    "description": "Broken clouds",
+    "temperature": 15.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T02:35:47.480280",
+    "description": "Overcast clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T02:45:47.615116",
+    "description": "Overcast clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T02:55:47.744456",
+    "description": "Overcast clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T03:05:47.861001",
+    "description": "Broken clouds",
+    "temperature": 15.73,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T03:15:48.004072",
+    "description": "Broken clouds",
+    "temperature": 15.51,
+    "humidity": 81,
+    "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-06-13T03:25:48.143661",
+    "description": "Broken clouds",
+    "temperature": 15.73,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T03:35:48.277860",
+    "description": "Broken clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T03:45:48.410794",
+    "description": "Broken clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T03:55:48.543685",
+    "description": "Broken clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T04:05:48.703044",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T04:15:48.830489",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T04:25:48.962053",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T04:35:49.096892",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T04:45:49.230050",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T04:55:49.360545",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T05:05:49.539709",
+    "description": "Scattered clouds",
+    "temperature": 14.8,
+    "humidity": 87,
+    "wind_speed": 4.6
+  },
+  {
+    "timestamp": "2025-06-13T05:15:49.687108",
+    "description": "Broken clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T05:25:49.833771",
+    "description": "Broken clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T05:35:49.975722",
+    "description": "Broken clouds",
+    "temperature": 16.73,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T05:45:50.109154",
+    "description": "Broken clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T05:55:50.251012",
+    "description": "Broken clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T06:05:50.380113",
+    "description": "Scattered clouds",
+    "temperature": 16.33,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T06:15:50.527981",
+    "description": "Scattered clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T06:25:50.677948",
+    "description": "Scattered clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T06:35:50.812746",
+    "description": "Scattered clouds",
+    "temperature": 16.73,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T06:45:50.953525",
+    "description": "Scattered clouds",
+    "temperature": 16.73,
+    "humidity": 81,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T06:55:51.085176",
+    "description": "Scattered clouds",
+    "temperature": 15.73,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T07:05:51.231190",
+    "description": "Broken clouds",
+    "temperature": 17.65,
+    "humidity": 76,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T07:15:51.366089",
+    "description": "Broken clouds",
+    "temperature": 18.06,
+    "humidity": 76,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T07:25:51.504806",
+    "description": "Broken clouds",
+    "temperature": 17,
+    "humidity": 78,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T07:35:51.642057",
+    "description": "Broken clouds",
+    "temperature": 17.03,
+    "humidity": 78,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T07:45:51.785403",
+    "description": "Broken clouds",
+    "temperature": 17.44,
+    "humidity": 77,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T07:55:51.949683",
+    "description": "Broken clouds",
+    "temperature": 17.44,
+    "humidity": 76,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T08:05:52.075488",
+    "description": "Broken clouds",
+    "temperature": 18.09,
+    "humidity": 72,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-13T08:15:52.219292",
+    "description": "Broken clouds",
+    "temperature": 18.51,
+    "humidity": 69,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-13T08:25:52.356203",
+    "description": "Broken clouds",
+    "temperature": 18.91,
+    "humidity": 66,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-13T08:35:52.514282",
+    "description": "Broken clouds",
+    "temperature": 18.91,
+    "humidity": 66,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-13T08:45:52.668798",
+    "description": "Broken clouds",
+    "temperature": 18.51,
+    "humidity": 66,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-13T08:55:52.827731",
+    "description": "Broken clouds",
+    "temperature": 17.79,
+    "humidity": 77,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-13T09:05:52.953387",
+    "description": "Broken clouds",
+    "temperature": 19.59,
+    "humidity": 60,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-13T09:15:53.105946",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-13T09:25:53.254980",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-13T09:35:53.395562",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-13T09:45:53.530957",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-13T09:55:53.671418",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-13T10:05:53.812640",
+    "description": "Broken clouds",
+    "temperature": 20.67,
+    "humidity": 54,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T10:15:53.973495",
+    "description": "Broken clouds",
+    "temperature": 20.67,
+    "humidity": 53,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T10:25:54.089196",
+    "description": "Broken clouds",
+    "temperature": 20.67,
+    "humidity": 53,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T10:35:54.254015",
+    "description": "Broken clouds",
+    "temperature": 19.79,
+    "humidity": 60,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T10:45:54.419840",
+    "description": "Broken clouds",
+    "temperature": 19.79,
+    "humidity": 60,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T10:55:54.548115",
+    "description": "Broken clouds",
+    "temperature": 19.79,
+    "humidity": 60,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-13T11:05:54.695046",
+    "description": "Broken clouds",
+    "temperature": 20.73,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T11:15:54.828830",
+    "description": "Broken clouds",
+    "temperature": 20.73,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T11:25:54.974548",
+    "description": "Broken clouds",
+    "temperature": 20.73,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T11:35:55.116107",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T11:45:55.255166",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T11:55:55.407194",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-13T12:05:55.553437",
+    "description": "Broken clouds",
+    "temperature": 22.61,
+    "humidity": 38,
+    "wind_speed": 1.34
+  },
+  {
+    "timestamp": "2025-06-13T12:15:55.675484",
+    "description": "Broken clouds",
+    "temperature": 23.15,
+    "humidity": 38,
+    "wind_speed": 1.34
+  },
+  {
+    "timestamp": "2025-06-13T12:25:55.830241",
+    "description": "Clear sky",
+    "temperature": 21.73,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T12:35:56.022915",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T12:45:56.165691",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T12:55:56.306724",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T13:05:56.441333",
+    "description": "Clear sky",
+    "temperature": 23.91,
+    "humidity": 39,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T13:15:56.583717",
+    "description": "Clear sky",
+    "temperature": 23.91,
+    "humidity": 39,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T13:25:56.726487",
+    "description": "Clear sky",
+    "temperature": 22.79,
+    "humidity": 43,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T13:35:56.865685",
+    "description": "Clear sky",
+    "temperature": 22.79,
+    "humidity": 43,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T13:45:56.984685",
+    "description": "Clear sky",
+    "temperature": 22.79,
+    "humidity": 43,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T13:55:57.102192",
+    "description": "Clear sky",
+    "temperature": 22.79,
+    "humidity": 43,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T14:05:57.254913",
+    "description": "Clear sky",
+    "temperature": 22.86,
+    "humidity": 43,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T14:15:57.419435",
+    "description": "Clear sky",
+    "temperature": 22.86,
+    "humidity": 43,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T14:25:57.558434",
+    "description": "Clear sky",
+    "temperature": 22.86,
+    "humidity": 43,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T14:35:57.710937",
+    "description": "Clear sky",
+    "temperature": 22.86,
+    "humidity": 43,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T14:45:57.854904",
+    "description": "Clear sky",
+    "temperature": 22.86,
+    "humidity": 43,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T14:55:57.996811",
+    "description": "Clear sky",
+    "temperature": 22.86,
+    "humidity": 43,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T15:05:58.147076",
+    "description": "Few clouds",
+    "temperature": 23.79,
+    "humidity": 43,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T15:15:58.296593",
+    "description": "Few clouds",
+    "temperature": 23.79,
+    "humidity": 43,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T15:25:58.437361",
+    "description": "Few clouds",
+    "temperature": 23.79,
+    "humidity": 43,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T15:35:58.580731",
+    "description": "Few clouds",
+    "temperature": 23.79,
+    "humidity": 43,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T15:45:58.724033",
+    "description": "Few clouds",
+    "temperature": 23.79,
+    "humidity": 43,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T15:55:58.865687",
+    "description": "Few clouds",
+    "temperature": 23.79,
+    "humidity": 43,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T16:05:59.036227",
+    "description": "Scattered clouds",
+    "temperature": 24.8,
+    "humidity": 56,
+    "wind_speed": 3.06
+  },
+  {
+    "timestamp": "2025-06-13T16:15:59.202243",
+    "description": "Scattered clouds",
+    "temperature": 24.8,
+    "humidity": 56,
+    "wind_speed": 3.06
+  },
+  {
+    "timestamp": "2025-06-13T16:25:59.359556",
+    "description": "Clear sky",
+    "temperature": 24.79,
+    "humidity": 41,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T16:35:59.502299",
+    "description": "Clear sky",
+    "temperature": 24.79,
+    "humidity": 41,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T16:45:59.667074",
+    "description": "Clear sky",
+    "temperature": 24.79,
+    "humidity": 41,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T16:55:59.806422",
+    "description": "Clear sky",
+    "temperature": 24.79,
+    "humidity": 41,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T17:05:59.930165",
+    "description": "Few clouds",
+    "temperature": 24.79,
+    "humidity": 44,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T17:16:00.088384",
+    "description": "Few clouds",
+    "temperature": 24.79,
+    "humidity": 44,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T17:26:00.566725",
+    "description": "Few clouds",
+    "temperature": 24.79,
+    "humidity": 44,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T17:36:00.704128",
+    "description": "Few clouds",
+    "temperature": 24.86,
+    "humidity": 44,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T17:46:00.837570",
+    "description": "Few clouds",
+    "temperature": 24.86,
+    "humidity": 44,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T17:56:01.032989",
+    "description": "Few clouds",
+    "temperature": 24.86,
+    "humidity": 44,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T18:06:01.181738",
+    "description": "Scattered clouds",
+    "temperature": 24.86,
+    "humidity": 47,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T18:16:01.336304",
+    "description": "Scattered clouds",
+    "temperature": 24.86,
+    "humidity": 47,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T18:26:01.479413",
+    "description": "Scattered clouds",
+    "temperature": 24.87,
+    "humidity": 43,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T18:36:01.631102",
+    "description": "Scattered clouds",
+    "temperature": 24.86,
+    "humidity": 47,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T18:46:01.778494",
+    "description": "Scattered clouds",
+    "temperature": 24.86,
+    "humidity": 47,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T18:56:01.928583",
+    "description": "Light rain",
+    "temperature": 24.86,
+    "humidity": 47,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-13T19:06:02.065757",
+    "description": "Light rain",
+    "temperature": 24.79,
+    "humidity": 50,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T19:16:02.219415",
+    "description": "Scattered clouds",
+    "temperature": 24.79,
+    "humidity": 50,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-13T19:26:02.337812",
+    "description": "Broken clouds",
+    "temperature": 24.79,
+    "humidity": 50,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T19:36:02.483560",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T19:46:02.626413",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T19:56:02.763096",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-13T20:06:02.954423",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T20:16:03.140216",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T20:26:03.301465",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T20:36:03.449935",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T20:46:03.614366",
+    "description": "Light rain",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T20:56:03.774217",
+    "description": "Overcast clouds",
+    "temperature": 23.79,
+    "humidity": 53,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T21:06:03.921903",
+    "description": "Broken clouds",
+    "temperature": 22.79,
+    "humidity": 60,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T21:16:04.070020",
+    "description": "Broken clouds",
+    "temperature": 22.79,
+    "humidity": 60,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T21:26:04.205064",
+    "description": "Overcast clouds",
+    "temperature": 22.79,
+    "humidity": 60,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T21:36:04.345538",
+    "description": "Overcast clouds",
+    "temperature": 22.79,
+    "humidity": 60,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T21:46:04.489004",
+    "description": "Light rain",
+    "temperature": 22.79,
+    "humidity": 60,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T21:56:04.635035",
+    "description": "Light rain",
+    "temperature": 22.79,
+    "humidity": 60,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-13T22:06:04.783300",
+    "description": "Light rain",
+    "temperature": 22.79,
+    "humidity": 64,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T22:16:04.940124",
+    "description": "Broken clouds",
+    "temperature": 22.79,
+    "humidity": 64,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T22:26:05.124162",
+    "description": "Light rain",
+    "temperature": 22.79,
+    "humidity": 64,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T22:36:05.269191",
+    "description": "Broken clouds",
+    "temperature": 22.79,
+    "humidity": 64,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T22:46:05.422148",
+    "description": "Light rain",
+    "temperature": 22.79,
+    "humidity": 64,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T22:56:05.717824",
+    "description": "Light rain",
+    "temperature": 22.79,
+    "humidity": 64,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-13T23:06:05.874467",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 73,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T23:16:06.044711",
+    "description": "Light rain",
+    "temperature": 20.79,
+    "humidity": 73,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T23:26:06.178401",
+    "description": "Light rain",
+    "temperature": 20.79,
+    "humidity": 73,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T23:36:06.468294",
+    "description": "Light rain",
+    "temperature": 20.79,
+    "humidity": 73,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T23:46:06.595972",
+    "description": "Light rain",
+    "temperature": 20.79,
+    "humidity": 73,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-13T23:56:06.759157",
+    "description": "Light rain",
+    "temperature": 20.79,
+    "humidity": 73,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-14T00:06:06.918745",
+    "description": "Light rain",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T00:16:07.107423",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T00:26:07.250268",
+    "description": "Light rain",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T00:36:07.401564",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T00:46:07.543528",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T00:56:07.686855",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T01:06:07.838220",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T01:16:07.959218",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T01:26:08.097914",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T01:36:08.214247",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T01:46:08.357154",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T01:56:08.511445",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T02:06:08.688081",
+    "description": "Few clouds",
+    "temperature": 16.92,
+    "humidity": 88,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T02:16:08.847804",
+    "description": "Few clouds",
+    "temperature": 16.92,
+    "humidity": 88,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T02:26:09.032084",
+    "description": "Few clouds",
+    "temperature": 17.02,
+    "humidity": 80,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T02:36:09.171564",
+    "description": "Few clouds",
+    "temperature": 17.03,
+    "humidity": 81,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T02:46:09.316945",
+    "description": "Few clouds",
+    "temperature": 17.03,
+    "humidity": 81,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T02:56:09.471733",
+    "description": "Few clouds",
+    "temperature": 17.03,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T03:06:09.625238",
+    "description": "Clear sky",
+    "temperature": 16.78,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-14T03:16:09.776367",
+    "description": "Clear sky",
+    "temperature": 16.78,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-14T03:26:09.919620",
+    "description": "Broken clouds",
+    "temperature": 16.54,
+    "humidity": 86,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T03:36:10.071614",
+    "description": "Broken clouds",
+    "temperature": 16.54,
+    "humidity": 86,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T03:46:10.197256",
+    "description": "Broken clouds",
+    "temperature": 16.95,
+    "humidity": 85,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T03:56:10.347415",
+    "description": "Scattered clouds",
+    "temperature": 17.2,
+    "humidity": 82,
+    "wind_speed": 0.45
+  },
+  {
+    "timestamp": "2025-06-14T04:06:10.506154",
+    "description": "Few clouds",
+    "temperature": 17.18,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T04:16:10.661319",
+    "description": "Few clouds",
+    "temperature": 17.18,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T04:26:10.796776",
+    "description": "Few clouds",
+    "temperature": 17.18,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T04:36:10.940027",
+    "description": "Few clouds",
+    "temperature": 15.86,
+    "humidity": 88,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T04:46:11.088318",
+    "description": "Few clouds",
+    "temperature": 17.18,
+    "humidity": 82,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T04:56:11.231138",
+    "description": "Few clouds",
+    "temperature": 15.86,
+    "humidity": 88,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-06-14T05:06:11.370687",
+    "description": "Overcast clouds",
+    "temperature": 17.18,
+    "humidity": 82,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-14T05:16:11.524397",
+    "description": "Overcast clouds",
+    "temperature": 15.86,
+    "humidity": 88,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-14T05:26:11.666866",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-14T05:36:11.804646",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 83,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-14T05:46:11.947008",
+    "description": "Scattered clouds",
+    "temperature": 17.03,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-14T05:56:12.082985",
+    "description": "Scattered clouds",
+    "temperature": 17.44,
+    "humidity": 81,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-14T06:06:12.238192",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 84,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-14T06:16:12.379272",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 84,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-14T06:26:12.500363",
+    "description": "Overcast clouds",
+    "temperature": 17.83,
+    "humidity": 84,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-14T06:36:12.656457",
+    "description": "Overcast clouds",
+    "temperature": 17.68,
+    "humidity": 82,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T06:46:12.816898",
+    "description": "Overcast clouds",
+    "temperature": 18.12,
+    "humidity": 83,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T06:56:13.016853",
+    "description": "Overcast clouds",
+    "temperature": 17.68,
+    "humidity": 83,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T07:06:13.136939",
+    "description": "Overcast clouds",
+    "temperature": 17.68,
+    "humidity": 84,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T07:16:13.280007",
+    "description": "Overcast clouds",
+    "temperature": 17.68,
+    "humidity": 84,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T07:26:13.422689",
+    "description": "Overcast clouds",
+    "temperature": 17.68,
+    "humidity": 85,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T07:36:13.582335",
+    "description": "Overcast clouds",
+    "temperature": 17.68,
+    "humidity": 85,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T07:46:13.729865",
+    "description": "Overcast clouds",
+    "temperature": 17.27,
+    "humidity": 83,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T07:56:13.871969",
+    "description": "Overcast clouds",
+    "temperature": 17.27,
+    "humidity": 81,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T08:06:14.019909",
+    "description": "Overcast clouds",
+    "temperature": 17.67,
+    "humidity": 80,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T08:16:14.155020",
+    "description": "Overcast clouds",
+    "temperature": 17.67,
+    "humidity": 80,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T08:26:14.282327",
+    "description": "Overcast clouds",
+    "temperature": 17.67,
+    "humidity": 79,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T08:36:14.425933",
+    "description": "Overcast clouds",
+    "temperature": 18.09,
+    "humidity": 76,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T08:46:14.561337",
+    "description": "Scattered clouds",
+    "temperature": 18.51,
+    "humidity": 74,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T08:56:14.720158",
+    "description": "Scattered clouds",
+    "temperature": 18.91,
+    "humidity": 72,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T09:06:14.869854",
+    "description": "Broken clouds",
+    "temperature": 19.57,
+    "humidity": 68,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T09:16:15.030337",
+    "description": "Broken clouds",
+    "temperature": 19.57,
+    "humidity": 67,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T09:26:15.167340",
+    "description": "Broken clouds",
+    "temperature": 19.16,
+    "humidity": 67,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T09:36:15.325316",
+    "description": "Broken clouds",
+    "temperature": 18.77,
+    "humidity": 66,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T09:46:15.488920",
+    "description": "Broken clouds",
+    "temperature": 19.21,
+    "humidity": 65,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T09:56:15.643059",
+    "description": "Broken clouds",
+    "temperature": 19.21,
+    "humidity": 63,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T10:06:15.790213",
+    "description": "Scattered clouds",
+    "temperature": 19.42,
+    "humidity": 60,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T10:16:15.952443",
+    "description": "Scattered clouds",
+    "temperature": 19.42,
+    "humidity": 60,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T10:26:16.120270",
+    "description": "Scattered clouds",
+    "temperature": 19.83,
+    "humidity": 58,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T10:36:16.266801",
+    "description": "Scattered clouds",
+    "temperature": 19.83,
+    "humidity": 58,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T10:46:16.464849",
+    "description": "Scattered clouds",
+    "temperature": 20.65,
+    "humidity": 55,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T10:56:16.625551",
+    "description": "Scattered clouds",
+    "temperature": 19.73,
+    "humidity": 64,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-14T11:06:16.798828",
+    "description": "Scattered clouds",
+    "temperature": 20.42,
+    "humidity": 58,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T11:16:16.952602",
+    "description": "Scattered clouds",
+    "temperature": 20.42,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T11:26:17.095641",
+    "description": "Scattered clouds",
+    "temperature": 19.6,
+    "humidity": 61,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T11:36:17.254184",
+    "description": "Scattered clouds",
+    "temperature": 19.19,
+    "humidity": 62,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T11:46:17.399554",
+    "description": "Scattered clouds",
+    "temperature": 19.6,
+    "humidity": 60,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T11:56:17.520624",
+    "description": "Scattered clouds",
+    "temperature": 20.42,
+    "humidity": 55,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T12:06:17.662881",
+    "description": "Few clouds",
+    "temperature": 21.39,
+    "humidity": 51,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-14T12:16:17.802652",
+    "description": "Few clouds",
+    "temperature": 21.39,
+    "humidity": 51,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-14T12:26:17.951408",
+    "description": "Few clouds",
+    "temperature": 21.39,
+    "humidity": 50,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-14T12:36:18.085072",
+    "description": "Scattered clouds",
+    "temperature": 19.86,
+    "humidity": 56,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T12:46:18.202113",
+    "description": "Scattered clouds",
+    "temperature": 19.86,
+    "humidity": 56,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T12:56:18.340937",
+    "description": "Scattered clouds",
+    "temperature": 19.86,
+    "humidity": 56,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T13:06:18.499438",
+    "description": "Broken clouds",
+    "temperature": 19.86,
+    "humidity": 60,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T13:16:18.614700",
+    "description": "Broken clouds",
+    "temperature": 21.1,
+    "humidity": 49,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T13:26:18.799410",
+    "description": "Broken clouds",
+    "temperature": 19.86,
+    "humidity": 60,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T13:36:18.929674",
+    "description": "Broken clouds",
+    "temperature": 21.1,
+    "humidity": 50,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T13:46:19.085863",
+    "description": "Broken clouds",
+    "temperature": 21.1,
+    "humidity": 51,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T13:56:19.244217",
+    "description": "Broken clouds",
+    "temperature": 21.51,
+    "humidity": 50,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-14T14:06:19.386526",
+    "description": "Broken clouds",
+    "temperature": 21.75,
+    "humidity": 46,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T14:16:19.507361",
+    "description": "Broken clouds",
+    "temperature": 21.75,
+    "humidity": 47,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-14T14:26:19.653039",
+    "description": "Overcast clouds",
+    "temperature": 21.51,
+    "humidity": 50,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-14T14:36:19.814318",
+    "description": "Overcast clouds",
+    "temperature": 19.92,
+    "humidity": 60,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-14T14:46:19.961061",
+    "description": "Overcast clouds",
+    "temperature": 19.92,
+    "humidity": 60,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-14T14:56:20.097657",
+    "description": "Overcast clouds",
+    "temperature": 19.92,
+    "humidity": 60,
+    "wind_speed": 8.23
+  },
+  {
+    "timestamp": "2025-06-14T15:06:20.259219",
+    "description": "Broken clouds",
+    "temperature": 20.73,
+    "humidity": 60,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T15:16:20.403584",
+    "description": "Broken clouds",
+    "temperature": 20.73,
+    "humidity": 60,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T15:26:20.528661",
+    "description": "Light rain",
+    "temperature": 19.79,
+    "humidity": 60,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T15:36:20.668966",
+    "description": "Light rain",
+    "temperature": 19.45,
+    "humidity": 63,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T15:46:20.825596",
+    "description": "Light rain",
+    "temperature": 17.44,
+    "humidity": 77,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-14T15:56:20.968826",
+    "description": "Light rain",
+    "temperature": 17.02,
+    "humidity": 79,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-14T16:00:07.750661",
+    "description": "Overcast clouds",
+    "temperature": 16.6,
+    "humidity": 80,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-14T16:10:07.869938",
+    "description": "Light intensity drizzle",
+    "temperature": 16.4,
+    "humidity": 80,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T16:20:08.010728",
+    "description": "Overcast clouds",
+    "temperature": 17.13,
+    "humidity": 78,
+    "wind_speed": 1.34
+  },
+  {
+    "timestamp": "2025-06-14T16:30:08.151913",
+    "description": "Overcast clouds",
+    "temperature": 17.28,
+    "humidity": 75,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-14T16:40:08.299607",
+    "description": "Overcast clouds",
+    "temperature": 17.72,
+    "humidity": 71,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-14T16:50:08.442456",
+    "description": "Overcast clouds",
+    "temperature": 17.97,
+    "humidity": 70,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-14T17:00:08.561366",
+    "description": "Overcast clouds",
+    "temperature": 18.37,
+    "humidity": 66,
+    "wind_speed": 3.13
+  },
+  {
+    "timestamp": "2025-06-14T17:10:08.702546",
+    "description": "Few clouds",
+    "temperature": 19.41,
+    "humidity": 65,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T17:20:08.847690",
+    "description": "Few clouds",
+    "temperature": 19.23,
+    "humidity": 65,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T17:30:08.985822",
+    "description": "Light rain",
+    "temperature": 18.68,
+    "humidity": 69,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T17:40:09.127034",
+    "description": "Light rain",
+    "temperature": 18.34,
+    "humidity": 74,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-14T17:50:09.260401",
+    "description": "Overcast clouds",
+    "temperature": 16.23,
+    "humidity": 81,
+    "wind_speed": 2.68
+  },
+  {
+    "timestamp": "2025-06-14T18:00:09.405106",
+    "description": "Overcast clouds",
+    "temperature": 16.43,
+    "humidity": 81,
+    "wind_speed": 1.34
+  },
+  {
+    "timestamp": "2025-06-14T18:10:09.567832",
+    "description": "Overcast clouds",
+    "temperature": 16.31,
+    "humidity": 81,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T18:20:09.740836",
+    "description": "Overcast clouds",
+    "temperature": 16.49,
+    "humidity": 80,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T18:30:09.913812",
+    "description": "Overcast clouds",
+    "temperature": 16.77,
+    "humidity": 79,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T18:40:10.060642",
+    "description": "Overcast clouds",
+    "temperature": 17.21,
+    "humidity": 77,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T18:50:10.203123",
+    "description": "Overcast clouds",
+    "temperature": 16.42,
+    "humidity": 83,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T19:00:10.320485",
+    "description": "Overcast clouds",
+    "temperature": 16.42,
+    "humidity": 83,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-14T19:10:10.473788",
+    "description": "Broken clouds",
+    "temperature": 17.22,
+    "humidity": 76,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T19:20:10.614989",
+    "description": "Broken clouds",
+    "temperature": 17.39,
+    "humidity": 76,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T19:30:10.736622",
+    "description": "Broken clouds",
+    "temperature": 17.39,
+    "humidity": 75,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T19:40:10.868153",
+    "description": "Light rain",
+    "temperature": 17.43,
+    "humidity": 74,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T19:50:11.027104",
+    "description": "Moderate rain",
+    "temperature": 17.08,
+    "humidity": 76,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T20:00:11.174721",
+    "description": "Moderate rain",
+    "temperature": 16.32,
+    "humidity": 81,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T20:10:11.309848",
+    "description": "Light rain",
+    "temperature": 16.31,
+    "humidity": 84,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T20:20:11.429969",
+    "description": "Light rain",
+    "temperature": 15.85,
+    "humidity": 85,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T20:30:11.563563",
+    "description": "Overcast clouds",
+    "temperature": 15.85,
+    "humidity": 85,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T20:40:11.686507",
+    "description": "Overcast clouds",
+    "temperature": 15.57,
+    "humidity": 86,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T20:50:11.828229",
+    "description": "Overcast clouds",
+    "temperature": 15.57,
+    "humidity": 86,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T21:00:11.984277",
+    "description": "Overcast clouds",
+    "temperature": 15.57,
+    "humidity": 86,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T21:10:12.101194",
+    "description": "Overcast clouds",
+    "temperature": 15.49,
+    "humidity": 90,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T21:20:12.267139",
+    "description": "Overcast clouds",
+    "temperature": 15.49,
+    "humidity": 90,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T21:30:12.420238",
+    "description": "Overcast clouds",
+    "temperature": 15.04,
+    "humidity": 90,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T21:40:12.580488",
+    "description": "Overcast clouds",
+    "temperature": 14.79,
+    "humidity": 94,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T21:50:12.721549",
+    "description": "Overcast clouds",
+    "temperature": 14.79,
+    "humidity": 94,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T22:00:12.862527",
+    "description": "Overcast clouds",
+    "temperature": 14.28,
+    "humidity": 93,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T22:10:13.004655",
+    "description": "Few clouds",
+    "temperature": 14.28,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T22:20:13.138792",
+    "description": "Few clouds",
+    "temperature": 14.28,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T22:30:13.290192",
+    "description": "Few clouds",
+    "temperature": 14.28,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T22:40:13.432180",
+    "description": "Few clouds",
+    "temperature": 13.93,
+    "humidity": 89,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T22:50:13.569005",
+    "description": "Few clouds",
+    "temperature": 13.93,
+    "humidity": 89,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T23:00:13.709576",
+    "description": "Few clouds",
+    "temperature": 13.93,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-14T23:10:13.856878",
+    "description": "Clear sky",
+    "temperature": 13.23,
+    "humidity": 88,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T23:20:13.998406",
+    "description": "Clear sky",
+    "temperature": 13.23,
+    "humidity": 88,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T23:30:14.136699",
+    "description": "Clear sky",
+    "temperature": 13.24,
+    "humidity": 89,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T23:40:14.307133",
+    "description": "Clear sky",
+    "temperature": 13.24,
+    "humidity": 89,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-14T23:50:14.450298",
+    "description": "Clear sky",
+    "temperature": 13.24,
+    "humidity": 89,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-15T00:00:14.593347",
+    "description": "Clear sky",
+    "temperature": 13.24,
+    "humidity": 89,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-15T00:10:14.739409",
+    "description": "Clear sky",
+    "temperature": 13.09,
+    "humidity": 86,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T00:20:14.888964",
+    "description": "Clear sky",
+    "temperature": 13.09,
+    "humidity": 86,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T00:30:15.031381",
+    "description": "Clear sky",
+    "temperature": 13.09,
+    "humidity": 86,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T00:40:17.191735",
+    "description": "Clear sky",
+    "temperature": 12.79,
+    "humidity": 88,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T00:50:17.332802",
+    "description": "Clear sky",
+    "temperature": 12.69,
+    "humidity": 87,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T01:00:17.483202",
+    "description": "Clear sky",
+    "temperature": 13.09,
+    "humidity": 87,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T01:10:17.632789",
+    "description": "Clear sky",
+    "temperature": 12.44,
+    "humidity": 86,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T01:20:17.757840",
+    "description": "Clear sky",
+    "temperature": 12.85,
+    "humidity": 87,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T01:30:17.879490",
+    "description": "Clear sky",
+    "temperature": 12.85,
+    "humidity": 87,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T01:40:18.020658",
+    "description": "Clear sky",
+    "temperature": 12.43,
+    "humidity": 87,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T01:50:18.231783",
+    "description": "Clear sky",
+    "temperature": 11.79,
+    "humidity": 87,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T02:00:18.370091",
+    "description": "Clear sky",
+    "temperature": 11.79,
+    "humidity": 87,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T02:10:18.509967",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-15T02:20:18.645193",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-15T02:30:18.769831",
+    "description": "Clear sky",
+    "temperature": 12.18,
+    "humidity": 90,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-15T02:40:18.910171",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-15T02:50:19.052142",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-15T03:00:19.193462",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-15T03:10:19.348738",
+    "description": "Broken clouds",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T03:20:19.508289",
+    "description": "Broken clouds",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T03:30:19.650808",
+    "description": "Broken clouds",
+    "temperature": 12.18,
+    "humidity": 90,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T03:40:19.778856",
+    "description": "Broken clouds",
+    "temperature": 12.18,
+    "humidity": 90,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T03:50:19.896597",
+    "description": "Broken clouds",
+    "temperature": 12.18,
+    "humidity": 90,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T04:00:20.039355",
+    "description": "Broken clouds",
+    "temperature": 11.77,
+    "humidity": 90,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T04:10:20.180684",
+    "description": "Clear sky",
+    "temperature": 11.77,
+    "humidity": 90,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T04:20:20.320355",
+    "description": "Clear sky",
+    "temperature": 12.18,
+    "humidity": 90,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T04:30:20.461991",
+    "description": "Clear sky",
+    "temperature": 12.18,
+    "humidity": 90,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T04:40:20.605854",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T04:50:20.755593",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T05:00:20.898440",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T05:10:21.055182",
+    "description": "Clear sky",
+    "temperature": 11.77,
+    "humidity": 91,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T05:20:21.205272",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T05:30:21.326046",
+    "description": "Clear sky",
+    "temperature": 10.86,
+    "humidity": 93,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T05:40:21.498025",
+    "description": "Clear sky",
+    "temperature": 12.18,
+    "humidity": 90,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T05:50:21.651504",
+    "description": "Clear sky",
+    "temperature": 12.18,
+    "humidity": 91,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T06:00:21.797858",
+    "description": "Broken clouds",
+    "temperature": 12.43,
+    "humidity": 91,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T06:10:21.972578",
+    "description": "Scattered clouds",
+    "temperature": 12.43,
+    "humidity": 91,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T06:20:22.114708",
+    "description": "Scattered clouds",
+    "temperature": 12.43,
+    "humidity": 91,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T06:30:22.264249",
+    "description": "Scattered clouds",
+    "temperature": 12.43,
+    "humidity": 91,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T06:40:22.423087",
+    "description": "Broken clouds",
+    "temperature": 12.83,
+    "humidity": 91,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T06:50:22.542732",
+    "description": "Broken clouds",
+    "temperature": 12.83,
+    "humidity": 91,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T07:00:22.696479",
+    "description": "Scattered clouds",
+    "temperature": 12.43,
+    "humidity": 91,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-15T07:10:22.844383",
+    "description": "Few clouds",
+    "temperature": 13.09,
+    "humidity": 89,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T07:20:22.986158",
+    "description": "Few clouds",
+    "temperature": 13.09,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T07:30:23.131951",
+    "description": "Few clouds",
+    "temperature": 13.51,
+    "humidity": 87,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T07:40:23.272045",
+    "description": "Few clouds",
+    "temperature": 13.93,
+    "humidity": 87,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T07:50:23.391884",
+    "description": "Few clouds",
+    "temperature": 13.93,
+    "humidity": 87,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T08:00:23.532575",
+    "description": "Few clouds",
+    "temperature": 14.34,
+    "humidity": 86,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-15T08:10:23.662842",
+    "description": "Few clouds",
+    "temperature": 14.83,
+    "humidity": 85,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T08:20:23.830072",
+    "description": "Few clouds",
+    "temperature": 15.25,
+    "humidity": 84,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T08:30:23.975665",
+    "description": "Few clouds",
+    "temperature": 15.65,
+    "humidity": 83,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T08:40:24.115447",
+    "description": "Broken clouds",
+    "temperature": 15.67,
+    "humidity": 79,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T08:50:24.263602",
+    "description": "Broken clouds",
+    "temperature": 16.08,
+    "humidity": 76,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T09:00:24.404181",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 82,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T09:10:24.548998",
+    "description": "Scattered clouds",
+    "temperature": 16.77,
+    "humidity": 73,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-15T09:20:24.699756",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 71,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T09:30:24.910376",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 71,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T09:40:25.056671",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 70,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T09:50:25.169828",
+    "description": "Broken clouds",
+    "temperature": 17.83,
+    "humidity": 69,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T10:00:25.308007",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 77,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T10:10:25.453154",
+    "description": "Broken clouds",
+    "temperature": 18.91,
+    "humidity": 60,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-15T10:20:25.589907",
+    "description": "Broken clouds",
+    "temperature": 17.79,
+    "humidity": 68,
+    "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-06-15T10:30:25.729571",
+    "description": "Broken clouds",
+    "temperature": 19.57,
+    "humidity": 53,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T10:40:25.875523",
+    "description": "Broken clouds",
+    "temperature": 18.73,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T10:50:26.001782",
+    "description": "Broken clouds",
+    "temperature": 18.73,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T11:00:26.140335",
+    "description": "Broken clouds",
+    "temperature": 18.73,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T11:10:26.283180",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T11:20:26.418983",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T11:30:26.565777",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T11:40:26.728214",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T11:50:26.876162",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T12:00:27.011318",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T12:10:27.155855",
+    "description": "Scattered clouds",
+    "temperature": 20.9,
+    "humidity": 44,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T12:20:27.301758",
+    "description": "Scattered clouds",
+    "temperature": 21.31,
+    "humidity": 44,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T12:30:27.433816",
+    "description": "Scattered clouds",
+    "temperature": 20.66,
+    "humidity": 49,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T12:40:27.552872",
+    "description": "Scattered clouds",
+    "temperature": 20.73,
+    "humidity": 49,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T12:50:27.700178",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T13:00:27.891211",
+    "description": "Clear sky",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T13:10:28.054966",
+    "description": "Few clouds",
+    "temperature": 21.52,
+    "humidity": 44,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T13:20:28.225643",
+    "description": "Scattered clouds",
+    "temperature": 20.86,
+    "humidity": 49,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T13:30:28.561184",
+    "description": "Scattered clouds",
+    "temperature": 22.18,
+    "humidity": 41,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T13:40:28.700633",
+    "description": "Scattered clouds",
+    "temperature": 22.18,
+    "humidity": 41,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T13:50:28.855277",
+    "description": "Scattered clouds",
+    "temperature": 22.18,
+    "humidity": 41,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T14:00:29.006631",
+    "description": "Scattered clouds",
+    "temperature": 21.77,
+    "humidity": 41,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-15T14:10:29.145923",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T14:20:29.285615",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T14:30:29.402252",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T14:40:29.543409",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T14:50:29.661391",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T15:00:29.782300",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T15:10:29.942502",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T15:20:30.092683",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T15:30:30.288029",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 43,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T15:40:30.454116",
+    "description": "Few clouds",
+    "temperature": 21.73,
+    "humidity": 43,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T15:50:30.600949",
+    "description": "Few clouds",
+    "temperature": 22,
+    "humidity": 39,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T16:00:30.740689",
+    "description": "Few clouds",
+    "temperature": 22,
+    "humidity": 40,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T16:10:30.889941",
+    "description": "Few clouds",
+    "temperature": 21.73,
+    "humidity": 46,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-15T16:20:31.063024",
+    "description": "Few clouds",
+    "temperature": 22,
+    "humidity": 41,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-15T16:30:31.228930",
+    "description": "Few clouds",
+    "temperature": 21.73,
+    "humidity": 46,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-15T16:40:31.372891",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-15T16:50:31.531651",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-15T17:00:31.673990",
+    "description": "Few clouds",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-15T17:10:31.823955",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-15T17:20:31.975647",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-15T17:30:32.118630",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-15T17:40:32.306128",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-15T17:50:32.448235",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-15T18:00:32.592302",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 46,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-06-15T18:10:32.714490",
+    "description": "Overcast clouds",
+    "temperature": 20.69,
+    "humidity": 49,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T18:20:32.852806",
+    "description": "Overcast clouds",
+    "temperature": 20.74,
+    "humidity": 51,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T18:30:33.015074",
+    "description": "Overcast clouds",
+    "temperature": 19.86,
+    "humidity": 52,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T18:40:33.158449",
+    "description": "Overcast clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T18:50:33.299807",
+    "description": "Overcast clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T19:00:33.433692",
+    "description": "Overcast clouds",
+    "temperature": 19.79,
+    "humidity": 52,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-15T19:10:33.577431",
+    "description": "Scattered clouds",
+    "temperature": 19.79,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T19:20:33.697069",
+    "description": "Scattered clouds",
+    "temperature": 19.85,
+    "humidity": 55,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T19:30:33.830416",
+    "description": "Scattered clouds",
+    "temperature": 19.85,
+    "humidity": 57,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T19:40:33.973386",
+    "description": "Scattered clouds",
+    "temperature": 19.79,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T19:50:34.123706",
+    "description": "Scattered clouds",
+    "temperature": 19.79,
+    "humidity": 56,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T20:00:34.287975",
+    "description": "Scattered clouds",
+    "temperature": 18.97,
+    "humidity": 59,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-06-15T20:10:34.407340",
+    "description": "Scattered clouds",
+    "temperature": 18.52,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T20:20:34.579503",
+    "description": "Scattered clouds",
+    "temperature": 18.57,
+    "humidity": 63,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T20:30:34.729539",
+    "description": "Scattered clouds",
+    "temperature": 18.57,
+    "humidity": 64,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T20:40:34.875362",
+    "description": "Scattered clouds",
+    "temperature": 17.79,
+    "humidity": 68,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T20:50:35.018912",
+    "description": "Scattered clouds",
+    "temperature": 17.86,
+    "humidity": 68,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-06-15T21:00:35.160619",
+    "description": "Broken clouds",
+    "temperature": 16.92,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T21:10:35.308286",
+    "description": "Broken clouds",
+    "temperature": 16.92,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T21:20:35.431690",
+    "description": "Broken clouds",
+    "temperature": 16.92,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T21:30:35.579371",
+    "description": "Broken clouds",
+    "temperature": 16.92,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T21:40:35.730145",
+    "description": "Broken clouds",
+    "temperature": 16.86,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T21:50:35.877776",
+    "description": "Broken clouds",
+    "temperature": 16.86,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T22:00:36.025737",
+    "description": "Broken clouds",
+    "temperature": 16.79,
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-15T22:10:36.194420",
+    "description": "Clear sky",
+    "temperature": 15.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T22:20:36.347152",
+    "description": "Clear sky",
+    "temperature": 15.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T22:30:36.490147",
+    "description": "Clear sky",
+    "temperature": 15.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T22:40:36.651934",
+    "description": "Clear sky",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T22:50:36.771004",
+    "description": "Clear sky",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T23:00:36.927653",
+    "description": "Clear sky",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T23:10:37.118170",
+    "description": "Overcast clouds",
+    "temperature": 14.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T23:20:37.263370",
+    "description": "Overcast clouds",
+    "temperature": 14.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T23:30:37.427370",
+    "description": "Overcast clouds",
+    "temperature": 14.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T23:40:37.570121",
+    "description": "Overcast clouds",
+    "temperature": 14.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-15T23:50:37.720477",
+    "description": "Overcast clouds",
+    "temperature": 14.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T00:00:37.867374",
+    "description": "Overcast clouds",
+    "temperature": 14.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T00:10:38.021598",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T00:20:38.165293",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T00:30:38.329453",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T00:40:38.474270",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T00:50:38.622181",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T01:00:38.768406",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T01:10:38.913034",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-16T01:20:39.038745",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-16T01:30:39.164007",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-16T01:40:39.311554",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-16T01:50:39.460234",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-16T02:00:39.607033",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-16T02:10:39.748437",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T02:20:39.892933",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T02:30:40.042929",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T02:40:40.185351",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T02:50:40.327041",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T03:10:00.590190",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T03:20:00.737937",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T03:30:00.889046",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T03:40:01.032322",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T03:50:01.155552",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T04:00:01.317530",
+    "description": "Overcast clouds",
+    "temperature": 15.79,
+    "humidity": 82,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T04:10:01.467577",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T04:20:01.615265",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T04:30:01.738405",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T04:40:01.867030",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T04:50:02.018420",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T05:00:02.173838",
+    "description": "Broken clouds",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-16T05:10:02.318841",
+    "description": "Mist",
+    "temperature": 12.79,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T05:20:02.439168",
+    "description": "Mist",
+    "temperature": 12.79,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T05:30:02.562122",
+    "description": "Mist",
+    "temperature": 12.86,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T05:40:02.721606",
+    "description": "Mist",
+    "temperature": 12.79,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T05:50:02.867460",
+    "description": "Mist",
+    "temperature": 12.79,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T06:00:03.012792",
+    "description": "Mist",
+    "temperature": 12.79,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T06:10:03.157045",
+    "description": "Broken clouds",
+    "temperature": 12.86,
+    "humidity": 94,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-16T06:20:03.277941",
+    "description": "Mist",
+    "temperature": 13.79,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T06:30:03.424643",
+    "description": "Mist",
+    "temperature": 13.79,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T06:40:03.576497",
+    "description": "Mist",
+    "temperature": 14.6,
+    "humidity": 89,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T06:50:03.725334",
+    "description": "Mist",
+    "temperature": 13.86,
+    "humidity": 94,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T07:00:03.873520",
+    "description": "Mist",
+    "temperature": 15.02,
+    "humidity": 88,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-06-16T07:10:04.024009",
+    "description": "Mist",
+    "temperature": 15.26,
+    "humidity": 86,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T07:20:04.173053",
+    "description": "Mist",
+    "temperature": 15.67,
+    "humidity": 85,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T07:30:04.328439",
+    "description": "Mist",
+    "temperature": 15.67,
+    "humidity": 84,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T07:40:04.461374",
+    "description": "Mist",
+    "temperature": 14.79,
+    "humidity": 88,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T07:50:04.609277",
+    "description": "Mist",
+    "temperature": 16.08,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T08:00:04.760131",
+    "description": "Broken clouds",
+    "temperature": 16.73,
+    "humidity": 81,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-16T08:10:04.927533",
+    "description": "Broken clouds",
+    "temperature": 16.75,
+    "humidity": 78,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T08:20:05.114366",
+    "description": "Broken clouds",
+    "temperature": 16.75,
+    "humidity": 77,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T08:30:05.251550",
+    "description": "Broken clouds",
+    "temperature": 16.75,
+    "humidity": 76,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T08:40:05.397787",
+    "description": "Broken clouds",
+    "temperature": 15.86,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T08:50:05.649322",
+    "description": "Broken clouds",
+    "temperature": 17.18,
+    "humidity": 74,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T09:00:05.805131",
+    "description": "Broken clouds",
+    "temperature": 17.59,
+    "humidity": 74,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T09:10:05.963177",
+    "description": "Broken clouds",
+    "temperature": 18.51,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T09:20:06.141541",
+    "description": "Broken clouds",
+    "temperature": 17.79,
+    "humidity": 72,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T09:30:06.296508",
+    "description": "Broken clouds",
+    "temperature": 17.79,
+    "humidity": 72,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T09:40:06.452332",
+    "description": "Broken clouds",
+    "temperature": 17.79,
+    "humidity": 72,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T09:50:06.607286",
+    "description": "Broken clouds",
+    "temperature": 17.79,
+    "humidity": 72,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T10:00:06.779835",
+    "description": "Broken clouds",
+    "temperature": 18.73,
+    "humidity": 68,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-16T10:10:06.930423",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T10:20:07.080276",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T10:30:07.218500",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T10:40:07.345224",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T10:50:07.500687",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T11:00:07.656485",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 68,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T11:10:07.802528",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T11:20:07.983576",
+    "description": "Broken clouds",
+    "temperature": 18.79,
+    "humidity": 59,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T11:30:08.140890",
+    "description": "Broken clouds",
+    "temperature": 20,
+    "humidity": 56,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T11:40:08.303742",
+    "description": "Broken clouds",
+    "temperature": 20.42,
+    "humidity": 54,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T11:50:08.452630",
+    "description": "Broken clouds",
+    "temperature": 18.86,
+    "humidity": 59,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T12:00:08.612378",
+    "description": "Broken clouds",
+    "temperature": 20.42,
+    "humidity": 54,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T12:10:08.751600",
+    "description": "Broken clouds",
+    "temperature": 21.39,
+    "humidity": 55,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T12:20:08.936522",
+    "description": "Broken clouds",
+    "temperature": 21.39,
+    "humidity": 54,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T12:30:09.097203",
+    "description": "Broken clouds",
+    "temperature": 21.83,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T12:40:09.252360",
+    "description": "Broken clouds",
+    "temperature": 20.79,
+    "humidity": 60,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T12:50:09.403013",
+    "description": "Broken clouds",
+    "temperature": 21.75,
+    "humidity": 50,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T13:00:09.550041",
+    "description": "Broken clouds",
+    "temperature": 21.75,
+    "humidity": 52,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T13:10:09.704538",
+    "description": "Overcast clouds",
+    "temperature": 21.75,
+    "humidity": 49,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T13:20:09.855024",
+    "description": "Overcast clouds",
+    "temperature": 21.75,
+    "humidity": 49,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T13:30:09.989177",
+    "description": "Overcast clouds",
+    "temperature": 21.75,
+    "humidity": 48,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T13:40:10.146115",
+    "description": "Overcast clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T13:50:10.303476",
+    "description": "Overcast clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T14:00:10.436743",
+    "description": "Overcast clouds",
+    "temperature": 20.79,
+    "humidity": 52,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T14:10:10.568164",
+    "description": "Broken clouds",
+    "temperature": 22.43,
+    "humidity": 48,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T14:20:10.737635",
+    "description": "Broken clouds",
+    "temperature": 21.79,
+    "humidity": 56,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T14:30:10.996687",
+    "description": "Broken clouds",
+    "temperature": 21.79,
+    "humidity": 56,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T14:40:11.122638",
+    "description": "Broken clouds",
+    "temperature": 21.86,
+    "humidity": 56,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T14:50:11.246959",
+    "description": "Broken clouds",
+    "temperature": 21.86,
+    "humidity": 56,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T15:00:11.394634",
+    "description": "Broken clouds",
+    "temperature": 22.85,
+    "humidity": 48,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T15:10:11.521516",
+    "description": "Broken clouds",
+    "temperature": 22.85,
+    "humidity": 48,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T15:20:11.670384",
+    "description": "Broken clouds",
+    "temperature": 22.85,
+    "humidity": 48,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T15:30:11.828205",
+    "description": "Broken clouds",
+    "temperature": 22.85,
+    "humidity": 49,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T15:40:12.000272",
+    "description": "Broken clouds",
+    "temperature": 22.83,
+    "humidity": 49,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T15:50:12.149181",
+    "description": "Broken clouds",
+    "temperature": 21.79,
+    "humidity": 56,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T16:00:12.276999",
+    "description": "Broken clouds",
+    "temperature": 22.83,
+    "humidity": 49,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-16T16:10:12.434033",
+    "description": "Scattered clouds",
+    "temperature": 23.19,
+    "humidity": 45,
+    "wind_speed": 0.89
+  },
+  {
+    "timestamp": "2025-06-16T16:20:12.555433",
+    "description": "Broken clouds",
+    "temperature": 21.86,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T16:30:12.707156",
+    "description": "Broken clouds",
+    "temperature": 21.86,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T16:40:12.866634",
+    "description": "Broken clouds",
+    "temperature": 21.86,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T16:50:12.995074",
+    "description": "Broken clouds",
+    "temperature": 21.86,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T17:00:13.147946",
+    "description": "Broken clouds",
+    "temperature": 21.86,
+    "humidity": 53,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-06-16T17:10:13.297923",
+    "description": "Scattered clouds",
+    "temperature": 24.28,
+    "humidity": 37,
+    "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-06-16T17:20:13.451480",
+    "description": "Few clouds",
+    "temperature": 22.79,
+    "humidity": 49,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-16T17:30:13.598347",
+    "description": "Few clouds",
+    "temperature": 23.91,
+    "humidity": 43,
+    "wind_speed": 5.66
   }
 ]
