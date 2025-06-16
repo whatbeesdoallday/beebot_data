@@ -603,6 +603,13 @@
   },
   {
     "block": "21:30",
+    "count": 814,
+    "activity_level": "Medium",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "21:45",
     "count": 1,
     "activity_level": "Low",
     "temperature": null,
