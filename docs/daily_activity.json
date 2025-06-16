@@ -558,5 +558,19 @@
     "activity_level": "Medium",
     "temperature": null,
     "temperature_condition": "Unknown"
+  },
+  {
+    "block": "20:00",
+    "count": 836,
+    "activity_level": "Medium",
+    "temperature": null,
+    "temperature_condition": "Unknown"
+  },
+  {
+    "block": "20:15",
+    "count": 1,
+    "activity_level": "Low",
+    "temperature": null,
+    "temperature_condition": "Unknown"
   }
 ]
