@@ -614,5 +614,12 @@
     "activity_level": "Medium",
     "temperature": 17.79,
     "temperature_condition": "Optimal"
+  },
+  {
+    "block": "22:00",
+    "count": 272,
+    "activity_level": "Low",
+    "temperature": 16.86,
+    "temperature_condition": "Optimal"
   }
 ]
