@@ -9777,5 +9777,19 @@
     "temperature": 20.86,
     "humidity": 60,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-18T11:30:50.297348",
+    "description": "Few clouds",
+    "temperature": 20.86,
+    "humidity": 60,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-18T11:40:50.467570",
+    "description": "Few clouds",
+    "temperature": 20.92,
+    "humidity": 60,
+    "wind_speed": 2.57
   }
 ]
