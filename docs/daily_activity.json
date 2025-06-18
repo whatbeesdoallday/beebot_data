@@ -141,6 +141,13 @@
   },
   {
     "block": "05:00",
+    "count": 521,
+    "activity_level": "Medium",
+    "temperature": 13.26,
+    "temperature_condition": "Low"
+  },
+  {
+    "block": "05:15",
     "count": 1,
     "activity_level": "Low",
     "temperature": null,
