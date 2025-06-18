@@ -9630,5 +9630,19 @@
     "temperature": 13.92,
     "humidity": 94,
     "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-06-18T08:00:46.629182",
+    "description": "Clear sky",
+    "temperature": 15.8,
+    "humidity": 85,
+    "wind_speed": 1.85
+  },
+  {
+    "timestamp": "2025-06-18T08:10:46.762022",
+    "description": "Scattered clouds",
+    "temperature": 14.92,
+    "humidity": 82,
+    "wind_speed": 1.54
   }
 ]
