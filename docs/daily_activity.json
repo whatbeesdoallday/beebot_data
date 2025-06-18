@@ -4,209 +4,319 @@
     "count": 176,
     "activity_level": "Low",
     "temperature": 14.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 3.09,
+    "humidity": 82,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "00:15",
     "count": 131,
     "activity_level": "Low",
     "temperature": 14.85,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 3.09,
+    "humidity": 79,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "00:30",
     "count": 155,
     "activity_level": "Low",
     "temperature": 14.73,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 3.09,
+    "humidity": 82,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "00:45",
     "count": 152,
     "activity_level": "Low",
     "temperature": 14.73,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 3.09,
+    "humidity": 82,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "01:00",
     "count": 148,
     "activity_level": "Low",
     "temperature": 13.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 88,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "01:15",
     "count": 108,
     "activity_level": "Low",
     "temperature": 14.21,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 85,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "01:30",
     "count": 104,
     "activity_level": "Low",
     "temperature": 14.21,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 86,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "01:45",
     "count": 120,
     "activity_level": "Low",
     "temperature": 13.77,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 86,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "02:00",
     "count": 100,
     "activity_level": "Low",
     "temperature": 14.21,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 1.54,
+    "humidity": 87,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "02:15",
     "count": 80,
     "activity_level": "Low",
     "temperature": 14.21,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 1.54,
+    "humidity": 87,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "02:30",
     "count": 79,
     "activity_level": "Low",
     "temperature": 14.21,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 1.54,
+    "humidity": 87,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "02:45",
     "count": 47,
     "activity_level": "Low",
     "temperature": 14.16,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 1.54,
+    "humidity": 87,
+    "environment_score": 1.6,
+    "environment_label": "Marginal"
   },
   {
     "block": "03:00",
     "count": 88,
     "activity_level": "Low",
     "temperature": 13.91,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 90,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "03:15",
     "count": 65,
     "activity_level": "Low",
     "temperature": 13.91,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 90,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "03:30",
     "count": 105,
     "activity_level": "Low",
     "temperature": 12.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "03:45",
     "count": 118,
     "activity_level": "Low",
     "temperature": 12.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "04:00",
     "count": 125,
     "activity_level": "Low",
     "temperature": 13.51,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 0,
+    "humidity": 90,
+    "environment_score": 1.7,
+    "environment_label": "Marginal"
   },
   {
     "block": "04:15",
     "count": 97,
     "activity_level": "Low",
     "temperature": 12.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 0,
+    "humidity": 94,
+    "environment_score": 1.7,
+    "environment_label": "Marginal"
   },
   {
     "block": "04:30",
     "count": 214,
     "activity_level": "Low",
     "temperature": 12.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 0,
+    "humidity": 94,
+    "environment_score": 1.7,
+    "environment_label": "Marginal"
   },
   {
     "block": "04:45",
     "count": 593,
     "activity_level": "Medium",
     "temperature": 13.51,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 0,
+    "humidity": 90,
+    "environment_score": 1.7,
+    "environment_label": "Marginal"
   },
   {
     "block": "05:00",
     "count": 521,
     "activity_level": "Medium",
     "temperature": 13.26,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 92,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "05:15",
     "count": 567,
     "activity_level": "Medium",
     "temperature": 13.26,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 93,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "05:30",
     "count": 567,
     "activity_level": "Medium",
     "temperature": 13.51,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 91,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "05:45",
     "count": 573,
     "activity_level": "Medium",
     "temperature": 12.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.57,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "06:00",
     "count": 612,
     "activity_level": "Medium",
     "temperature": 13.91,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 91,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "06:15",
     "count": 618,
     "activity_level": "Medium",
     "temperature": 13.91,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 91,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "06:30",
     "count": 616,
     "activity_level": "Medium",
     "temperature": 12.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "06:45",
     "count": 613,
     "activity_level": "Medium",
     "temperature": 12.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "07:00",
     "count": 618,
     "activity_level": "Medium",
     "temperature": 13.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
   },
   {
     "block": "07:15",
-    "count": 629,
+    "count": 631,
     "activity_level": "Medium",
     "temperature": 13.79,
-    "temperature_condition": "Low"
+    "wind_speed_mps": 2.06,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
+  },
+  {
+    "block": "07:30",
+    "count": 681,
+    "activity_level": "Medium",
+    "temperature": 13.86,
+    "wind_speed_mps": 2.06,
+    "humidity": 94,
+    "environment_score": 1.4,
+    "environment_label": "Poor"
+  },
+  {
+    "block": "07:45",
+    "count": 1,
+    "activity_level": "Low",
+    "temperature": null,
+    "wind_speed_mps": null,
+    "humidity": null,
+    "environment_score": 0.0,
+    "environment_label": "Hostile"
   }
 ]
