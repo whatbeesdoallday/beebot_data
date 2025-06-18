@@ -89,5 +89,12 @@
     "activity_level": "Low",
     "temperature": 13.91,
     "temperature_condition": "Low"
+  },
+  {
+    "block": "03:15",
+    "count": 65,
+    "activity_level": "Low",
+    "temperature": 13.91,
+    "temperature_condition": "Low"
   }
 ]
