@@ -6,13 +6,13 @@
     "Monday": 59314,
     "Tuesday": 56293,
     "Wednesday": 39762,
-    "Thursday": 30006
+    "Thursday": 30603
   },
   "average_past_6_days": 60195.8,
   "peak_activity_day": "Friday",
   "weekly_weather": {
     "min_temp": 13.7,
-    "max_temp": 29.6,
+    "max_temp": 29.8,
     "min_wind": 0,
     "max_wind": 9.3,
     "min_humidity": 26,
@@ -21,6 +21,6 @@
   "today_weather_avg": {
     "temp": 20.5,
     "wind": 4.6,
-    "humidity": 58.0
+    "humidity": 57.9
   }
 }
