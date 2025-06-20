@@ -501,12 +501,32 @@
   },
   {
     "block": "12:30",
-    "count": 583,
+    "count": 587,
     "activity_level": "Medium",
     "temperature": 27.48,
     "wind_speed_mps": 6.69,
     "humidity": 36,
     "environment_score": 2.1,
     "environment_label": "Marginal"
+  },
+  {
+    "block": "12:45",
+    "count": 570,
+    "activity_level": "Medium",
+    "temperature": 27.48,
+    "wind_speed_mps": 6.69,
+    "humidity": 35,
+    "environment_score": 2.1,
+    "environment_label": "Marginal"
+  },
+  {
+    "block": "13:00",
+    "count": 1,
+    "activity_level": "Low",
+    "temperature": null,
+    "wind_speed_mps": null,
+    "humidity": null,
+    "environment_score": 0.0,
+    "environment_label": "Hostile"
   }
 ]
