@@ -12689,5 +12689,12 @@
     "temperature": 22.57,
     "humidity": 54,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-21T08:51:54.363086",
+    "description": "Clear sky",
+    "temperature": 20.79,
+    "humidity": 64,
+    "wind_speed": 2.57
   }
 ]
