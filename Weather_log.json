@@ -12780,5 +12780,19 @@
     "temperature": 24.92,
     "humidity": 53,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-21T11:01:56.348945",
+    "description": "Light intensity drizzle",
+    "temperature": 25.79,
+    "humidity": 53,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-06-21T11:11:56.505859",
+    "description": "Light intensity drizzle",
+    "temperature": 25.79,
+    "humidity": 53,
+    "wind_speed": 3.09
   }
 ]
