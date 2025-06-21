@@ -12633,5 +12633,19 @@
     "temperature": 18.73,
     "humidity": 72,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-21T07:31:53.169987",
+    "description": "Heavy intensity rain",
+    "temperature": 18.86,
+    "humidity": 72,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-21T07:41:53.323078",
+    "description": "Light rain",
+    "temperature": 18.86,
+    "humidity": 72,
+    "wind_speed": 2.57
   }
 ]
