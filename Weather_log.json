@@ -12899,5 +12899,12 @@
     "temperature": 25.3,
     "humidity": 54,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-06-21T13:51:58.933291",
+    "description": "Moderate rain",
+    "temperature": 25.3,
+    "humidity": 55,
+    "wind_speed": 2.57
   }
 ]
