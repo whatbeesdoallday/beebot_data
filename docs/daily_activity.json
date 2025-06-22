@@ -411,12 +411,32 @@
   },
   {
     "block": "10:15",
-    "count": 499,
+    "count": 500,
     "activity_level": "Low",
     "temperature": 21.34,
     "wind_speed_mps": 5.66,
     "humidity": 54,
     "environment_score": 2.7,
     "environment_label": "Favourable"
+  },
+  {
+    "block": "10:30",
+    "count": 516,
+    "activity_level": "Medium",
+    "temperature": 21.75,
+    "wind_speed_mps": 5.66,
+    "humidity": 51,
+    "environment_score": 2.7,
+    "environment_label": "Favourable"
+  },
+  {
+    "block": "10:45",
+    "count": 1,
+    "activity_level": "Low",
+    "temperature": null,
+    "wind_speed_mps": null,
+    "humidity": null,
+    "environment_score": 0.0,
+    "environment_label": "Hostile"
   }
 ]
