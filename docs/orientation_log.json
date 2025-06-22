@@ -2,21 +2,26 @@
   {
     "timestamp": "2025-06-22T13:01:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 134
+    "minutes_ago": 149
   },
   {
     "timestamp": "2025-06-22T14:05:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 70
+    "minutes_ago": 85
   },
   {
     "timestamp": "2025-06-22T14:33:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 42
+    "minutes_ago": 57
   },
   {
     "timestamp": "2025-06-22T14:42:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 33
+    "minutes_ago": 48
+  },
+  {
+    "timestamp": "2025-06-22T15:27:00",
+    "event": "Orientation flight detected",
+    "minutes_ago": 3
   }
 ]
