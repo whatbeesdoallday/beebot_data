@@ -13718,5 +13718,12 @@
     "temperature": 19.83,
     "humidity": 64,
     "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-22T09:22:17.136068",
+    "description": "Scattered clouds",
+    "temperature": 19.83,
+    "humidity": 62,
+    "wind_speed": 5.66
   }
 ]
