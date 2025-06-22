@@ -2,36 +2,36 @@
   {
     "timestamp": "2025-06-22T13:01:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 374
+    "minutes_ago": 389
   },
   {
     "timestamp": "2025-06-22T14:05:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 310
+    "minutes_ago": 325
   },
   {
     "timestamp": "2025-06-22T14:33:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 282
+    "minutes_ago": 297
   },
   {
     "timestamp": "2025-06-22T14:42:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 273
+    "minutes_ago": 288
   },
   {
     "timestamp": "2025-06-22T15:27:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 228
+    "minutes_ago": 243
   },
   {
     "timestamp": "2025-06-22T16:26:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 169
+    "minutes_ago": 184
   },
   {
     "timestamp": "2025-06-22T18:00:00",
     "event": "Orientation flight detected",
-    "minutes_ago": 75
+    "minutes_ago": 90
   }
 ]
