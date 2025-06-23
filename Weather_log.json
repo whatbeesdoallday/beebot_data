@@ -15216,5 +15216,19 @@
     "temperature": 16.14,
     "humidity": 56,
     "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-06-23T21:05:01.206334",
+    "description": "Overcast clouds",
+    "temperature": 16.21,
+    "humidity": 59,
+    "wind_speed": 2.68
+  },
+  {
+    "timestamp": "2025-06-23T21:15:01.351167",
+    "description": "Overcast clouds",
+    "temperature": 15.87,
+    "humidity": 59,
+    "wind_speed": 2.68
   }
 ]
