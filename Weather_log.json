@@ -14418,5 +14418,19 @@
     "temperature": 16.51,
     "humidity": 88,
     "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-23T02:04:41.907889",
+    "description": "Light rain",
+    "temperature": 16.1,
+    "humidity": 87,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-23T02:14:42.046425",
+    "description": "Broken clouds",
+    "temperature": 16.1,
+    "humidity": 87,
+    "wind_speed": 6.17
   }
 ]
