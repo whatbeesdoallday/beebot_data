@@ -2,7 +2,7 @@
   "daily_totals": {
     "Sunday": 36511,
     "Monday": 31066,
-    "Tuesday": 18005
+    "Tuesday": 18332
   },
   "average_past_6_days": 33788.5,
   "peak_activity_day": "Sunday",
@@ -10,7 +10,7 @@
     "min_temp": 13.7,
     "max_temp": 29.9,
     "min_wind": 0,
-    "max_wind": 9.3,
+    "max_wind": 9.8,
     "min_humidity": 26,
     "max_humidity": 93
   },
