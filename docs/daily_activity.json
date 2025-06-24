@@ -811,12 +811,12 @@
   },
   {
     "block": "20:15",
-    "count": 1,
+    "count": 348,
     "activity_level": "Low",
-    "temperature": null,
-    "wind_speed_mps": null,
-    "humidity": null,
-    "environment_score": 0.0,
-    "environment_label": "Hostile"
+    "temperature": 19.75,
+    "wind_speed_mps": 1.79,
+    "humidity": 71,
+    "environment_score": 2.8,
+    "environment_label": "Favourable"
   }
 ]
