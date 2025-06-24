@@ -15510,5 +15510,12 @@
     "temperature": 15.09,
     "humidity": 76,
     "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-24T04:05:09.238987",
+    "description": "Light rain",
+    "temperature": 14.6,
+    "humidity": 76,
+    "wind_speed": 4.63
   }
 ]
