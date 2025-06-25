@@ -16770,5 +16770,12 @@
     "temperature": 18.79,
     "humidity": 72,
     "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-25T10:05:41.982895",
+    "description": "Overcast clouds",
+    "temperature": 20.42,
+    "humidity": 64,
+    "wind_speed": 0.45
   }
 ]

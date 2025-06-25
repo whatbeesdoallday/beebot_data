@@ -3,7 +3,7 @@
     "Sunday": 36511,
     "Monday": 31066,
     "Tuesday": 49165,
-    "Wednesday": 21483
+    "Wednesday": 22688
   },
   "average_past_6_days": 38914.0,
   "peak_activity_day": "Tuesday",
@@ -17,7 +17,7 @@
   },
   "today_weather_avg": {
     "temp": 21.3,
-    "wind": 5.0,
+    "wind": 4.9,
     "humidity": 55.7
   }
 }
