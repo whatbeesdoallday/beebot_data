@@ -718,5 +718,35 @@
     "humidity": 52,
     "environment_score": 2.7,
     "environment_label": "Favourable"
+  },
+  {
+    "block": "18:00",
+    "count": 1140,
+    "activity_level": "High",
+    "temperature": 23.51,
+    "wind_speed_mps": 4.63,
+    "humidity": 52,
+    "environment_score": 2.7,
+    "environment_label": "Favourable"
+  },
+  {
+    "block": "18:15",
+    "count": 1152,
+    "activity_level": "High",
+    "temperature": 23.09,
+    "wind_speed_mps": 4.63,
+    "humidity": 53,
+    "environment_score": 2.7,
+    "environment_label": "Favourable"
+  },
+  {
+    "block": "18:30",
+    "count": 1,
+    "activity_level": "Low",
+    "temperature": null,
+    "wind_speed_mps": null,
+    "humidity": null,
+    "environment_score": 0.0,
+    "environment_label": "Hostile"
   }
 ]
