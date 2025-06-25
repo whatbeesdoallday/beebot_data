@@ -51,6 +51,16 @@
   },
   {
     "block": "01:15",
+    "count": 111,
+    "activity_level": "Low",
+    "temperature": 15.86,
+    "wind_speed_mps": 4.63,
+    "humidity": 88,
+    "environment_score": 2.3,
+    "environment_label": "Marginal"
+  },
+  {
+    "block": "01:30",
     "count": 1,
     "activity_level": "Low",
     "temperature": null,
