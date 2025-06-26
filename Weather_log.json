@@ -18310,5 +18310,19 @@
     "temperature": 16.14,
     "humidity": 57,
     "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-26T22:46:25.778083",
+    "description": "Moderate rain",
+    "temperature": 16.73,
+    "humidity": 63,
+    "wind_speed": 6.69
+  },
+  {
+    "timestamp": "2025-06-26T22:56:25.955545",
+    "description": "Light intensity drizzle",
+    "temperature": 16.14,
+    "humidity": 63,
+    "wind_speed": 6.69
   }
 ]
