@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "block": "00:00",
+    "count": 20,
+    "activity_level": "Low",
+    "temperature": 13.52,
+    "wind_speed_mps": 4.12,
+    "humidity": 83,
+    "environment_score": 1.3,
+    "environment_label": "Poor"
+  }
+]
