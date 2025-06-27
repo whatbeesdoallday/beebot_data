@@ -401,12 +401,12 @@
   },
   {
     "block": "10:00",
-    "count": 1,
-    "activity_level": "Low",
-    "temperature": null,
-    "wind_speed_mps": null,
-    "humidity": null,
-    "environment_score": 0.0,
-    "environment_label": "Hostile"
+    "count": 636,
+    "activity_level": "Medium",
+    "temperature": 17.86,
+    "wind_speed_mps": 6.17,
+    "humidity": 72,
+    "environment_score": 2.2,
+    "environment_label": "Marginal"
   }
 ]
