@@ -20179,5 +20179,19 @@
     "temperature": 25.02,
     "humidity": 53,
     "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-28T19:17:17.183949",
+    "description": "Clear sky",
+    "temperature": 25.02,
+    "humidity": 54,
+    "wind_speed": 8.75
+  },
+  {
+    "timestamp": "2025-06-28T19:27:17.362181",
+    "description": "Clear sky",
+    "temperature": 24.6,
+    "humidity": 55,
+    "wind_speed": 8.75
   }
 ]
