@@ -501,12 +501,12 @@
   },
   {
     "block": "12:30",
-    "count": 1,
-    "activity_level": "Low",
-    "temperature": null,
-    "wind_speed_mps": null,
-    "humidity": null,
-    "environment_score": 0.0,
-    "environment_label": "Hostile"
+    "count": 874,
+    "activity_level": "Medium",
+    "temperature": 24.79,
+    "wind_speed_mps": 8.23,
+    "humidity": 61,
+    "environment_score": 2.2,
+    "environment_label": "Marginal"
   }
 ]
