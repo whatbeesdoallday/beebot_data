@@ -5,7 +5,8 @@
     "Thursday": 40593,
     "Friday": 32841,
     "Saturday": 51995,
-    "Sunday": 61129
+    "Sunday": 61129,
+    "Monday": 120
   },
   "average_past_6_days": 50665.3,
   "peak_activity_day": "Wednesday",
