@@ -21915,5 +21915,12 @@
     "temperature": 26.86,
     "humidity": 54,
     "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-06-30T12:37:58.966504",
+    "description": "Few clouds",
+    "temperature": 26.86,
+    "humidity": 54,
+    "wind_speed": 5.66
   }
 ]
