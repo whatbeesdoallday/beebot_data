@@ -21964,5 +21964,19 @@
     "temperature": 30.02,
     "humidity": 39,
     "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-30T13:48:00.233677",
+    "description": "Scattered clouds",
+    "temperature": 30.02,
+    "humidity": 39,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-06-30T13:58:00.477562",
+    "description": "Scattered clouds",
+    "temperature": 30.02,
+    "humidity": 38,
+    "wind_speed": 4.12
   }
 ]
