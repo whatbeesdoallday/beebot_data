@@ -22020,5 +22020,12 @@
     "temperature": 31.08,
     "humidity": 35,
     "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-30T15:08:01.968155",
+    "description": "Scattered clouds",
+    "temperature": 30.73,
+    "humidity": 42,
+    "wind_speed": 6.17
   }
 ]
