@@ -21985,5 +21985,19 @@
     "temperature": 30.67,
     "humidity": 37,
     "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-30T14:18:00.862983",
+    "description": "Few clouds",
+    "temperature": 30.67,
+    "humidity": 37,
+    "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-06-30T14:28:01.099883",
+    "description": "Few clouds",
+    "temperature": 30.67,
+    "humidity": 37,
+    "wind_speed": 6.17
   }
 ]
