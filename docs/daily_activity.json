@@ -531,12 +531,22 @@
   },
   {
     "block": "13:15",
-    "count": 735,
+    "count": 736,
     "activity_level": "Medium",
     "temperature": 29.59,
     "wind_speed_mps": 4.12,
     "humidity": 39,
     "environment_score": 2.4,
+    "environment_label": "Marginal"
+  },
+  {
+    "block": "13:30",
+    "count": 741,
+    "activity_level": "Medium",
+    "temperature": 30.02,
+    "wind_speed_mps": 4.12,
+    "humidity": 39,
+    "environment_score": 1.9,
     "environment_label": "Marginal"
   }
 ]
