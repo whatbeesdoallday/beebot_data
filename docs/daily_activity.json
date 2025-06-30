@@ -261,12 +261,12 @@
   },
   {
     "block": "06:30",
-    "count": 1,
-    "activity_level": "Low",
-    "temperature": null,
-    "wind_speed_mps": null,
-    "humidity": null,
-    "environment_score": 0.0,
-    "environment_label": "Hostile"
+    "count": 581,
+    "activity_level": "Medium",
+    "temperature": 18.12,
+    "wind_speed_mps": 0,
+    "humidity": 87,
+    "environment_score": 2.9,
+    "environment_label": "Favourable"
   }
 ]
