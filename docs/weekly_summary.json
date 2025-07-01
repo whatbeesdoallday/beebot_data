@@ -1,6 +1,5 @@
 {
   "daily_totals": {
-    "Wednesday": 68269,
     "Thursday": 40593,
     "Friday": 32841,
     "Saturday": 51995,
@@ -8,8 +7,8 @@
     "Monday": 41037,
     "Tuesday": 25338
   },
-  "average_past_6_days": 49310.7,
-  "peak_activity_day": "Wednesday",
+  "average_past_6_days": 42155.5,
+  "peak_activity_day": "Sunday",
   "weekly_weather": {
     "min_temp": 13.7,
     "max_temp": 31.8,
