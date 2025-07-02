@@ -23539,5 +23539,19 @@
     "temperature": 19.79,
     "humidity": 77,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-02T03:18:42.009946",
+    "description": "Broken clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-02T03:28:42.153479",
+    "description": "Few clouds",
+    "temperature": 19.79,
+    "humidity": 77,
+    "wind_speed": 3.6
   }
 ]
