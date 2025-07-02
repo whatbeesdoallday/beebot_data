@@ -24204,5 +24204,26 @@
     "temperature": 22.67,
     "humidity": 26,
     "wind_speed": 7.2
+  },
+  {
+    "timestamp": "2025-07-02T19:09:00.290788",
+    "description": "Scattered clouds",
+    "temperature": 22.63,
+    "humidity": 24,
+    "wind_speed": 2.24
+  },
+  {
+    "timestamp": "2025-07-02T19:19:00.477668",
+    "description": "Few clouds",
+    "temperature": 21.77,
+    "humidity": 27,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-07-02T19:29:00.670091",
+    "description": "Few clouds",
+    "temperature": 21.77,
+    "humidity": 28,
+    "wind_speed": 5.66
   }
 ]
