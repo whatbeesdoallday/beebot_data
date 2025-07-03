@@ -441,12 +441,12 @@
   },
   {
     "block": "11:30",
-    "count": 1,
-    "activity_level": "Low",
-    "temperature": null,
-    "wind_speed_mps": null,
-    "humidity": null,
-    "environment_score": 0.0,
-    "environment_label": "Hostile"
+    "count": 562,
+    "activity_level": "Medium",
+    "temperature": 23.15,
+    "wind_speed_mps": 1.34,
+    "humidity": 28,
+    "environment_score": 3.2,
+    "environment_label": "Favourable"
   }
 ]
