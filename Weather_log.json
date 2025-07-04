@@ -25723,5 +25723,19 @@
     "temperature": 13.79,
     "humidity": 82,
     "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-07-04T07:19:36.247260",
+    "description": "Clear sky",
+    "temperature": 13.79,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-07-04T07:29:36.392050",
+    "description": "Clear sky",
+    "temperature": 13.79,
+    "humidity": 82,
+    "wind_speed": 3.09
   }
 ]
