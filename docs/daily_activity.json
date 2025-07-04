@@ -451,12 +451,12 @@
   },
   {
     "block": "11:15",
-    "count": 1,
+    "count": 318,
     "activity_level": "Low",
-    "temperature": null,
-    "wind_speed_mps": null,
-    "humidity": null,
-    "environment_score": 0.0,
-    "environment_label": "Hostile"
+    "temperature": 18.86,
+    "wind_speed_mps": 5.14,
+    "humidity": 55,
+    "environment_score": 2.7,
+    "environment_label": "Favourable"
   }
 ]
