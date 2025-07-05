@@ -26500,5 +26500,19 @@
     "temperature": 17.73,
     "humidity": 68,
     "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-07-05T01:49:54.197695",
+    "description": "Light rain",
+    "temperature": 17.73,
+    "humidity": 68,
+    "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-07-05T01:59:54.347825",
+    "description": "Broken clouds",
+    "temperature": 17.73,
+    "humidity": 72,
+    "wind_speed": 5.66
   }
 ]
