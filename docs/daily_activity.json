@@ -388,5 +388,15 @@
     "humidity": 76,
     "environment_score": 2.3,
     "environment_label": "Marginal"
+  },
+  {
+    "block": "09:45",
+    "count": 168,
+    "activity_level": "Low",
+    "temperature": 18.09,
+    "wind_speed_mps": 5.66,
+    "humidity": 76,
+    "environment_score": 2.3,
+    "environment_label": "Marginal"
   }
 ]
