@@ -28670,5 +28670,19 @@
     "temperature": 14.4,
     "humidity": 73,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-07T05:30:46.414769",
+    "description": "Light intensity drizzle",
+    "temperature": 14.4,
+    "humidity": 73,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-07-07T05:40:46.566847",
+    "description": "Light rain",
+    "temperature": 14.16,
+    "humidity": 75,
+    "wind_speed": 4.12
   }
 ]
