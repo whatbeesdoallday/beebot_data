@@ -30035,5 +30035,19 @@
     "temperature": 19.86,
     "humidity": 37,
     "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-07-08T14:00:23.042054",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 35,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-07-08T14:10:23.253833",
+    "description": "Clear sky",
+    "temperature": 21.79,
+    "humidity": 35,
+    "wind_speed": 3.09
   }
 ]
