@@ -31967,5 +31967,19 @@
     "temperature": 24.92,
     "humidity": 47,
     "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-07-10T12:01:12.132248",
+    "description": "Few clouds",
+    "temperature": 25.86,
+    "humidity": 44,
+    "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-07-10T12:11:12.317496",
+    "description": "Few clouds",
+    "temperature": 25.86,
+    "humidity": 44,
+    "wind_speed": 0
   }
 ]
