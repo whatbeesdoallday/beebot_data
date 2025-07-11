@@ -33059,5 +33059,19 @@
     "temperature": 29.86,
     "humidity": 35,
     "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-07-11T14:01:47.900371",
+    "description": "Scattered clouds",
+    "temperature": 30.79,
+    "humidity": 30,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-11T14:11:48.106963",
+    "description": "Scattered clouds",
+    "temperature": 30.79,
+    "humidity": 30,
+    "wind_speed": 2.57
   }
 ]
