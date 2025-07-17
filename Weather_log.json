@@ -38400,5 +38400,19 @@
     "temperature": 20,
     "humidity": 86,
     "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-07-17T08:34:59.542654",
+    "description": "Light rain",
+    "temperature": 19.59,
+    "humidity": 88,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-07-17T08:44:59.697607",
+    "description": "Light rain",
+    "temperature": 19.59,
+    "humidity": 88,
+    "wind_speed": 4.12
   }
 ]
