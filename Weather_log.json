@@ -38645,5 +38645,12 @@
     "temperature": 24.21,
     "humidity": 61,
     "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-07-17T14:25:05.642199",
+    "description": "Scattered clouds",
+    "temperature": 24.41,
+    "humidity": 58,
+    "wind_speed": 4.12
   }
 ]
