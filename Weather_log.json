@@ -40423,5 +40423,19 @@
     "temperature": 16.75,
     "humidity": 83,
     "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-07-19T08:45:52.304776",
+    "description": "Shower rain",
+    "temperature": 16.75,
+    "humidity": 85,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-07-19T08:55:52.491726",
+    "description": "Light intensity shower rain",
+    "temperature": 16.75,
+    "humidity": 86,
+    "wind_speed": 1.54
   }
 ]
