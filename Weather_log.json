@@ -41389,5 +41389,19 @@
     "temperature": 17.63,
     "humidity": 84,
     "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-07-20T07:46:20.812753",
+    "description": "Light rain",
+    "temperature": 17.63,
+    "humidity": 84,
+    "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-07-20T07:56:21.016169",
+    "description": "Light rain",
+    "temperature": 17.63,
+    "humidity": 83,
+    "wind_speed": 2.68
   }
 ]
