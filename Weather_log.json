@@ -41872,5 +41872,19 @@
     "temperature": 20.11,
     "humidity": 51,
     "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-07-20T19:16:34.108817",
+    "description": "Scattered clouds",
+    "temperature": 20.11,
+    "humidity": 52,
+    "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-07-20T19:26:34.306996",
+    "description": "Scattered clouds",
+    "temperature": 20.11,
+    "humidity": 51,
+    "wind_speed": 4.63
   }
 ]
