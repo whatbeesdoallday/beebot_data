@@ -42012,5 +42012,12 @@
     "temperature": 16.02,
     "humidity": 71,
     "wind_speed": 2.25
+  },
+  {
+    "timestamp": "2025-07-20T22:36:37.795696",
+    "description": "Broken clouds",
+    "temperature": 15.16,
+    "humidity": 80,
+    "wind_speed": 1.75
   }
 ]
