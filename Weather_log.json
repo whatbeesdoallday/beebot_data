@@ -42208,5 +42208,19 @@
     "temperature": 13.17,
     "humidity": 82,
     "wind_speed": 0.86
+  },
+  {
+    "timestamp": "2025-07-21T03:16:43.281752",
+    "description": "Scattered clouds",
+    "temperature": 13.17,
+    "humidity": 82,
+    "wind_speed": 0.86
+  },
+  {
+    "timestamp": "2025-07-21T03:26:43.471625",
+    "description": "Scattered clouds",
+    "temperature": 12.63,
+    "humidity": 83,
+    "wind_speed": 0.86
   }
 ]
