@@ -42481,5 +42481,19 @@
     "temperature": 20.14,
     "humidity": 54,
     "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-07-21T09:46:51.080398",
+    "description": "Few clouds",
+    "temperature": 17.86,
+    "humidity": 63,
+    "wind_speed": 1.54
+  },
+  {
+    "timestamp": "2025-07-21T09:56:51.270437",
+    "description": "Few clouds",
+    "temperature": 17.86,
+    "humidity": 63,
+    "wind_speed": 1.54
   }
 ]
