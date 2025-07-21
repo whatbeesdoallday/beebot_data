@@ -42222,5 +42222,12 @@
     "temperature": 12.63,
     "humidity": 83,
     "wind_speed": 0.86
+  },
+  {
+    "timestamp": "2025-07-21T03:36:43.675260",
+    "description": "Scattered clouds",
+    "temperature": 12.08,
+    "humidity": 83,
+    "wind_speed": 0.62
   }
 ]
