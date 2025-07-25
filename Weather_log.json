@@ -46807,5 +46807,19 @@
     "temperature": 25.79,
     "humidity": 38,
     "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-07-25T16:48:50.810047",
+    "description": "Scattered clouds",
+    "temperature": 25.79,
+    "humidity": 38,
+    "wind_speed": 7.72
+  },
+  {
+    "timestamp": "2025-07-25T16:58:51.000522",
+    "description": "Scattered clouds",
+    "temperature": 25.79,
+    "humidity": 38,
+    "wind_speed": 7.72
   }
 ]
