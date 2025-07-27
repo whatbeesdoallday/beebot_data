@@ -48907,5 +48907,19 @@
     "temperature": 18.74,
     "humidity": 51,
     "wind_speed": 1.79
+  },
+  {
+    "timestamp": "2025-07-27T18:49:48.813268",
+    "description": "Overcast clouds",
+    "temperature": 18.74,
+    "humidity": 51,
+    "wind_speed": 1.34
+  },
+  {
+    "timestamp": "2025-07-27T18:59:49.007000",
+    "description": "Overcast clouds",
+    "temperature": 18.74,
+    "humidity": 52,
+    "wind_speed": 0.89
   }
 ]
