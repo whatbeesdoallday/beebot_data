@@ -49705,5 +49705,12 @@
     "temperature": 20.92,
     "humidity": 52,
     "wind_speed": 4.63
+  },
+  {
+    "timestamp": "2025-07-28T13:50:17.847600",
+    "description": "Broken clouds",
+    "temperature": 20.92,
+    "humidity": 52,
+    "wind_speed": 4.63
   }
 ]
