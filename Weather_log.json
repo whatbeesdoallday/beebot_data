@@ -50419,5 +50419,12 @@
     "temperature": 13.28,
     "humidity": 86,
     "wind_speed": 1.03
+  },
+  {
+    "timestamp": "2025-07-29T06:50:37.488649",
+    "description": "Light intensity shower rain",
+    "temperature": 13.68,
+    "humidity": 86,
+    "wind_speed": 1.03
   }
 ]
