@@ -50545,5 +50545,12 @@
     "temperature": 15.69,
     "humidity": 81,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-29T09:50:41.023697",
+    "description": "Mist",
+    "temperature": 15.69,
+    "humidity": 81,
+    "wind_speed": 2.57
   }
 ]
