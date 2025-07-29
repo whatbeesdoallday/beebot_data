@@ -50741,5 +50741,40 @@
     "temperature": 16.8,
     "humidity": 79,
     "wind_speed": 3
+  },
+  {
+    "timestamp": "2025-07-29T14:30:46.432695",
+    "description": "Mist",
+    "temperature": 18.79,
+    "humidity": 77,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-29T14:40:46.620970",
+    "description": "Mist",
+    "temperature": 18.79,
+    "humidity": 77,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-29T14:49:07.951162",
+    "description": "Mist",
+    "temperature": 18.79,
+    "humidity": 77,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-29T14:50:03.108193",
+    "description": "Mist",
+    "temperature": 18.79,
+    "humidity": 77,
+    "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-29T15:00:03.349550",
+    "description": "Mist",
+    "temperature": 18.79,
+    "humidity": 77,
+    "wind_speed": 2.57
   }
 ]
