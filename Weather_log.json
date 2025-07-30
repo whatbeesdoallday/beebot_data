@@ -52155,5 +52155,19 @@
     "temperature": 17.53,
     "humidity": 82,
     "wind_speed": 0.45
+  },
+  {
+    "timestamp": "2025-07-31T00:00:45.616500",
+    "description": "Scattered clouds",
+    "temperature": 17.65,
+    "humidity": 80,
+    "wind_speed": 0.45
+  },
+  {
+    "timestamp": "2025-07-31T00:10:45.817249",
+    "description": "Scattered clouds",
+    "temperature": 17.65,
+    "humidity": 80,
+    "wind_speed": 2.75
   }
 ]
