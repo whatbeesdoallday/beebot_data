@@ -52533,5 +52533,19 @@
     "temperature": 18.52,
     "humidity": 90,
     "wind_speed": 0.89
+  },
+  {
+    "timestamp": "2025-07-31T09:00:56.153324",
+    "description": "Mist",
+    "temperature": 18.52,
+    "humidity": 90,
+    "wind_speed": 0.45
+  },
+  {
+    "timestamp": "2025-07-31T09:10:56.451871",
+    "description": "Light rain",
+    "temperature": 19.17,
+    "humidity": 88,
+    "wind_speed": 3.6
   }
 ]
