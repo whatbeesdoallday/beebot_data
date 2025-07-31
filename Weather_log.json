@@ -52736,5 +52736,12 @@
     "temperature": 18.77,
     "humidity": 86,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-07-31T13:51:02.159429",
+    "description": "Heavy intensity rain",
+    "temperature": 18.8,
+    "humidity": 87,
+    "wind_speed": 2.57
   }
 ]
