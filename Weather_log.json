@@ -55095,5 +55095,19 @@
     "temperature": 17.51,
     "humidity": 69,
     "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-08-02T22:02:11.924243",
+    "description": "Clear sky",
+    "temperature": 16.85,
+    "humidity": 74,
+    "wind_speed": 5.42
+  },
+  {
+    "timestamp": "2025-08-02T22:12:12.140234",
+    "description": "Broken clouds",
+    "temperature": 17.09,
+    "humidity": 70,
+    "wind_speed": 4.12
   }
 ]
