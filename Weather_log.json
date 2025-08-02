@@ -54423,5 +54423,19 @@
     "temperature": 11.83,
     "humidity": 81,
     "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-02T06:01:52.345235",
+    "description": "Broken clouds",
+    "temperature": 12.08,
+    "humidity": 78,
+    "wind_speed": 2.21
+  },
+  {
+    "timestamp": "2025-08-02T06:11:52.548554",
+    "description": "Overcast clouds",
+    "temperature": 12.23,
+    "humidity": 77,
+    "wind_speed": 2.06
   }
 ]
