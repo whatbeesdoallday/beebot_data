@@ -56600,5 +56600,12 @@
     "temperature": 20.41,
     "humidity": 73,
     "wind_speed": 6.17
+  },
+  {
+    "timestamp": "2025-08-04T09:52:57.378190",
+    "description": "Moderate rain",
+    "temperature": 20.65,
+    "humidity": 73,
+    "wind_speed": 6.69
   }
 ]
