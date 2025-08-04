@@ -56229,5 +56229,19 @@
     "temperature": 18.12,
     "humidity": 80,
     "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-08-04T01:02:46.728935",
+    "description": "Scattered clouds",
+    "temperature": 17.44,
+    "humidity": 82,
+    "wind_speed": 3.09
+  },
+  {
+    "timestamp": "2025-08-04T01:12:46.938232",
+    "description": "Scattered clouds",
+    "temperature": 17.85,
+    "humidity": 82,
+    "wind_speed": 3.09
   }
 ]
