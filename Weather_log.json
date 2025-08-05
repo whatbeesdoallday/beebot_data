@@ -58035,5 +58035,19 @@
     "temperature": 19.39,
     "humidity": 45,
     "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-08-05T20:03:40.728681",
+    "description": "Few clouds",
+    "temperature": 18.77,
+    "humidity": 47,
+    "wind_speed": 4.12
+  },
+  {
+    "timestamp": "2025-08-05T20:13:40.947551",
+    "description": "Few clouds",
+    "temperature": 18.49,
+    "humidity": 47,
+    "wind_speed": 4.12
   }
 ]
