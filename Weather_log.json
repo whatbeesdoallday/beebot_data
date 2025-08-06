@@ -58574,5 +58574,12 @@
     "temperature": 10.79,
     "humidity": 87,
     "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-06T08:53:57.511976",
+    "description": "Overcast clouds",
+    "temperature": 12.8,
+    "humidity": 69,
+    "wind_speed": 2.16
   }
 ]
