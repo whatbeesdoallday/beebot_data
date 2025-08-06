@@ -3,7 +3,7 @@
   "average_past_6_days": 0,
   "peak_activity_day": null,
   "weekly_weather": {
-    "min_temp": 10.9,
+    "min_temp": 10.8,
     "max_temp": 33.5,
     "min_wind": 0,
     "max_wind": 13.4,
@@ -12,7 +12,7 @@
   },
   "today_weather_avg": {
     "temp": 21.8,
-    "wind": 4.4,
+    "wind": 4.3,
     "humidity": 54.7
   }
 }
