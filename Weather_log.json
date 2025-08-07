@@ -60135,5 +60135,19 @@
     "temperature": 16.61,
     "humidity": 85,
     "wind_speed": 5.14
+  },
+  {
+    "timestamp": "2025-08-07T22:04:43.487078",
+    "description": "Few clouds",
+    "temperature": 16.61,
+    "humidity": 83,
+    "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-08-07T22:14:43.708165",
+    "description": "Few clouds",
+    "temperature": 17.01,
+    "humidity": 83,
+    "wind_speed": 5.66
   }
 ]
