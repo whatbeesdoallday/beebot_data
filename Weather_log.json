@@ -60303,5 +60303,19 @@
     "temperature": 15.26,
     "humidity": 85,
     "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-08-08T02:04:48.647796",
+    "description": "Clear sky",
+    "temperature": 14.59,
+    "humidity": 88,
+    "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-08-08T02:14:48.859371",
+    "description": "Clear sky",
+    "temperature": 14.59,
+    "humidity": 88,
+    "wind_speed": 3.6
   }
 ]
