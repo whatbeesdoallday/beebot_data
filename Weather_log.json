@@ -60912,5 +60912,12 @@
     "temperature": 22.47,
     "humidity": 48,
     "wind_speed": 5.66
+  },
+  {
+    "timestamp": "2025-08-08T16:35:06.897652",
+    "description": "Scattered clouds",
+    "temperature": 22.49,
+    "humidity": 48,
+    "wind_speed": 5.66
   }
 ]
