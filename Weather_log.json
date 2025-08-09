@@ -61948,5 +61948,19 @@
     "temperature": 23.09,
     "humidity": 36,
     "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-08-09T17:15:37.580529",
+    "description": "Clear sky",
+    "temperature": 23.09,
+    "humidity": 35,
+    "wind_speed": 9.26
+  },
+  {
+    "timestamp": "2025-08-09T17:25:37.779509",
+    "description": "Clear sky",
+    "temperature": 23.09,
+    "humidity": 36,
+    "wind_speed": 9.26
   }
 ]
