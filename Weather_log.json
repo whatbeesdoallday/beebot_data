@@ -61626,5 +61626,12 @@
     "temperature": 17.41,
     "humidity": 65,
     "wind_speed": 3.6
+  },
+  {
+    "timestamp": "2025-08-09T09:35:27.999916",
+    "description": "Broken clouds",
+    "temperature": 17.43,
+    "humidity": 65,
+    "wind_speed": 3.6
   }
 ]
