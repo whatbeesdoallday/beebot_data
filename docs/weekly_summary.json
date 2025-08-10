@@ -8,7 +8,7 @@
     "min_wind": 0,
     "max_wind": 13.4,
     "min_humidity": 17,
-    "max_humidity": 94
+    "max_humidity": 100
   },
   "today_weather_avg": {
     "temp": 21.7,
