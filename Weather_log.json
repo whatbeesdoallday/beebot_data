@@ -62802,5 +62802,12 @@
     "temperature": 23.73,
     "humidity": 43,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-08-10T13:36:02.583175",
+    "description": "Scattered clouds",
+    "temperature": 23.86,
+    "humidity": 43,
+    "wind_speed": 2.57
   }
 ]
