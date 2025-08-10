@@ -62550,5 +62550,12 @@
     "temperature": 11.79,
     "humidity": 94,
     "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-08-10T07:35:55.197511",
+    "description": "Fog",
+    "temperature": 13.68,
+    "humidity": 91,
+    "wind_speed": 0
   }
 ]
