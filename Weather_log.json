@@ -64006,5 +64006,19 @@
     "temperature": 27.26,
     "humidity": 35,
     "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-11T18:15:38.059844",
+    "description": "Moderate rain",
+    "temperature": 27.26,
+    "humidity": 35,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-11T18:25:38.291448",
+    "description": "Moderate rain",
+    "temperature": 27.03,
+    "humidity": 30,
+    "wind_speed": 2.06
   }
 ]
