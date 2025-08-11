@@ -64090,5 +64090,19 @@
     "temperature": 24.69,
     "humidity": 45,
     "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-11T20:15:40.801862",
+    "description": "Light rain",
+    "temperature": 24.69,
+    "humidity": 44,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-11T20:25:41.022316",
+    "description": "Light rain",
+    "temperature": 24.36,
+    "humidity": 49,
+    "wind_speed": 2.06
   }
 ]
