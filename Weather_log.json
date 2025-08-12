@@ -64405,5 +64405,19 @@
     "temperature": 18.79,
     "humidity": 77,
     "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-12T03:45:50.278206",
+    "description": "Light intensity drizzle",
+    "temperature": 18.79,
+    "humidity": 77,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-12T03:55:50.468983",
+    "description": "Light intensity drizzle",
+    "temperature": 18.77,
+    "humidity": 74,
+    "wind_speed": 2.24
   }
 ]
