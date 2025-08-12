@@ -64293,5 +64293,12 @@
     "temperature": 20.74,
     "humidity": 61,
     "wind_speed": 2.57
+  },
+  {
+    "timestamp": "2025-08-12T01:05:46.961216",
+    "description": "Moderate rain",
+    "temperature": 20.94,
+    "humidity": 61,
+    "wind_speed": 2.06
   }
 ]
