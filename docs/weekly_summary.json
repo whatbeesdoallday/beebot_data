@@ -4,7 +4,7 @@
   "peak_activity_day": null,
   "weekly_weather": {
     "min_temp": 10.8,
-    "max_temp": 33.5,
+    "max_temp": 33.6,
     "min_wind": 0,
     "max_wind": 13.4,
     "min_humidity": 17,
@@ -13,6 +13,6 @@
   "today_weather_avg": {
     "temp": 21.9,
     "wind": 4.3,
-    "humidity": 54.0
+    "humidity": 53.9
   }
 }
