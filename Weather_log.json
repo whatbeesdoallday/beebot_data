@@ -65497,5 +65497,19 @@
     "temperature": 18.12,
     "humidity": 75,
     "wind_speed": 0
+  },
+  {
+    "timestamp": "2025-08-13T05:46:28.009846",
+    "description": "Clear sky",
+    "temperature": 18.12,
+    "humidity": 77,
+    "wind_speed": 0.89
+  },
+  {
+    "timestamp": "2025-08-13T05:56:28.224750",
+    "description": "Clear sky",
+    "temperature": 18.12,
+    "humidity": 77,
+    "wind_speed": 0
   }
 ]
