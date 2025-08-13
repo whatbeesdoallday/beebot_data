@@ -65518,5 +65518,19 @@
     "temperature": 17.18,
     "humidity": 84,
     "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-13T06:16:28.653796",
+    "description": "Few clouds",
+    "temperature": 17.18,
+    "humidity": 84,
+    "wind_speed": 2.06
+  },
+  {
+    "timestamp": "2025-08-13T06:26:28.875508",
+    "description": "Few clouds",
+    "temperature": 17.18,
+    "humidity": 84,
+    "wind_speed": 2.06
   }
 ]
